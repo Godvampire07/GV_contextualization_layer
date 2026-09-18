@@ -1,0 +1,923 @@
+[
+  {
+    "utt_id": "01-05421-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05459-02",
+    "domain": "Public Services & Civic Issues",
+    "themes": [
+      "Civic Infrastructure & Services"
+    ],
+    "issues": [
+      "General Public Grievance"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "complaint",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05459-03",
+    "domain": "Governance & Social Entitlements",
+    "themes": [
+      "Local Governance & Grievance Redressal"
+    ],
+    "issues": [
+      "Lack of Administrative Accountability"
+    ],
+    "entities": [
+      "gram panchayat"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05481-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05487-01",
+    "domain": "Community & Civic Engagement",
+    "themes": [
+      "Community Events & Awareness"
+    ],
+    "issues": [
+      "Civic Information Dissemination"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05493-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05495-03",
+    "domain": "Employment & Livelihoods",
+    "themes": [
+      "Labor Migration"
+    ],
+    "issues": [
+      "Distress Out-Migration for Work"
+    ],
+    "entities": [],
+    "affected_population": [
+      "migrant workers"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [
+      "Family Displacement"
+    ],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05497-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05534-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05537-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05540-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05539-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05552-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05559-02",
+    "domain": "Governance & Social Entitlements",
+    "themes": [
+      "Public Distribution System (PDS)",
+      "Labor Migration"
+    ],
+    "issues": [
+      "PDS Ration Under-weighing & Black Marketing",
+      "Distress Out-Migration for Work"
+    ],
+    "entities": [
+      "ration dealers"
+    ],
+    "affected_population": [
+      "BPL families",
+      "migrant workers"
+    ],
+    "events": [],
+    "interventions": [
+      "National Food Security Act"
+    ],
+    "outcomes": [
+      "Family Displacement"
+    ],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05566-02",
+    "domain": "Agriculture",
+    "themes": [
+      "Agriculture General"
+    ],
+    "issues": [
+      "Agriculture Service Delivery Concern"
+    ],
+    "entities": [
+      "farmers"
+    ],
+    "affected_population": [
+      "farmers"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05566-01",
+    "domain": "Infrastructure & Energy",
+    "themes": [
+      "Electricity Supply & Power Grid"
+    ],
+    "issues": [
+      "Frequent Power Outages & Burnt Transformers"
+    ],
+    "entities": [
+      "electricity board"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05595-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05595-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05614-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05620-01",
+    "domain": "Public Services & Civic Issues",
+    "themes": [
+      "Civic Infrastructure & Services"
+    ],
+    "issues": [
+      "General Public Grievance"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "complaint",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05629-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05645-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05646-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05654-02",
+    "domain": "Employment & Livelihoods",
+    "themes": [
+      "Local Employment Availability",
+      "Rural Housing Assistance"
+    ],
+    "issues": [
+      "Lack of Local Livelihood Opportunities",
+      "Pradhan Mantri Awas Yojana Installment Delays"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [
+      "PMAY-Gramin"
+    ],
+    "outcomes": [
+      "Income Insecurity"
+    ],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05666-03",
+    "domain": "Agriculture",
+    "themes": [
+      "Rural Housing Assistance"
+    ],
+    "issues": [
+      "Pradhan Mantri Awas Yojana Installment Delays"
+    ],
+    "entities": [
+      "farmers"
+    ],
+    "affected_population": [
+      "farmers"
+    ],
+    "events": [],
+    "interventions": [
+      "PMAY-Gramin"
+    ],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05679-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05678-01",
+    "domain": "Education",
+    "themes": [
+      "Education General"
+    ],
+    "issues": [
+      "Education Service Delivery Concern"
+    ],
+    "entities": [
+      "schools"
+    ],
+    "affected_population": [
+      "students"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05678-02",
+    "domain": "Education",
+    "themes": [
+      "School Infrastructure & Staffing"
+    ],
+    "issues": [
+      "Teacher Shortage & Absenteeism"
+    ],
+    "entities": [
+      "schools"
+    ],
+    "affected_population": [
+      "students"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05685-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05688-02",
+    "domain": "Infrastructure & Energy",
+    "themes": [
+      "Electricity Supply & Power Grid"
+    ],
+    "issues": [
+      "Frequent Power Outages & Burnt Transformers"
+    ],
+    "entities": [
+      "electricity board"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05700-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05710-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05709-01",
+    "domain": "Agriculture",
+    "themes": [
+      "Agriculture General"
+    ],
+    "issues": [
+      "Agriculture Service Delivery Concern"
+    ],
+    "entities": [
+      "farmers"
+    ],
+    "affected_population": [
+      "farmers"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05716-01",
+    "domain": "Infrastructure & Energy",
+    "themes": [
+      "Infrastructure & Energy General"
+    ],
+    "issues": [
+      "Infrastructure & Energy Service Delivery Concern"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05735-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05760-01",
+    "domain": "Water & Sanitation",
+    "themes": [
+      "Sanitation & Waste",
+      "Roads & Rural Connectivity"
+    ],
+    "issues": [
+      "Lack of Drainage & Sanitation Facilities",
+      "Dilapidated Roads & Missing Bridges"
+    ],
+    "entities": [
+      "toilets",
+      "roads"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [
+      "Transport Disruption"
+    ],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05763-03",
+    "domain": "Governance & Social Entitlements",
+    "themes": [
+      "Local Governance & Grievance Redressal"
+    ],
+    "issues": [
+      "Lack of Administrative Accountability"
+    ],
+    "entities": [
+      "gram panchayat"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05764-03",
+    "domain": "Public Services & Civic Issues",
+    "themes": [
+      "Civic Infrastructure & Services"
+    ],
+    "issues": [
+      "General Public Grievance"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "complaint",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05790-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05792-03",
+    "domain": "Infrastructure & Energy",
+    "themes": [
+      "Electricity Supply & Power Grid"
+    ],
+    "issues": [
+      "Frequent Power Outages & Burnt Transformers"
+    ],
+    "entities": [
+      "electricity board"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05846-03",
+    "domain": "Infrastructure & Energy",
+    "themes": [
+      "Roads & Rural Connectivity"
+    ],
+    "issues": [
+      "Dilapidated Roads & Missing Bridges"
+    ],
+    "entities": [
+      "roads"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [
+      "Transport Disruption"
+    ],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05858-03",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05873-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05902-03",
+    "domain": "Employment & Livelihoods",
+    "themes": [
+      "Employment & Livelihoods General"
+    ],
+    "issues": [
+      "Employment & Livelihoods Service Delivery Concern"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05911-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05918-02",
+    "domain": "Health & Nutrition",
+    "themes": [
+      "Healthcare Access & Facilities"
+    ],
+    "issues": [
+      "Doctor Absence & Medicine Shortage"
+    ],
+    "entities": [
+      "healthcare workers",
+      "hospitals"
+    ],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05962-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05963-02",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05986-01",
+    "domain": "Community Affairs",
+    "themes": [
+      "Community Information"
+    ],
+    "issues": [
+      "General Community Update"
+    ],
+    "entities": [],
+    "affected_population": [],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "information",
+    "not_applicable": false
+  },
+  {
+    "utt_id": "01-05994-02",
+    "domain": "Education",
+    "themes": [
+      "Education General"
+    ],
+    "issues": [
+      "Education Service Delivery Concern"
+    ],
+    "entities": [
+      "schools"
+    ],
+    "affected_population": [
+      "students"
+    ],
+    "events": [],
+    "interventions": [],
+    "outcomes": [],
+    "evidence_type": "community_report",
+    "not_applicable": false
+  }
+]

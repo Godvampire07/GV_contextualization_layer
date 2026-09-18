@@ -1,0 +1,1367 @@
+{
+  "consolidation_version": "0.1",
+  "description": "Corpus-grounded canonical concept mapping with synonym resolution and source evidence traceability",
+  "canonical_concepts": [
+    {
+      "id": "irrigation_water_availability",
+      "name": "Irrigation Water Availability",
+      "category_type": "issue",
+      "parent_id": "irrigation_and_water_management",
+      "definition": "Adequacy, timing, and accessibility of irrigation water from canals, borewells, and tube wells for crop cultivation.",
+      "aliases": [
+        "Water Availability for Irrigation",
+        "irrigation water shortage",
+        "canal water scarcity",
+        "borewell water deficit",
+        "drought-induced water stress"
+      ],
+      "source_frequency": 6,
+      "source_utterance_count": 6,
+      "example_utterance_ids": [
+        "01-03771-01",
+        "01-09172-02",
+        "01-10453-01",
+        "01-11067-01",
+        "01-11147-03",
+        "02-22153-01"
+      ]
+    },
+    {
+      "id": "irrigation_power_and_infrastructure",
+      "name": "Irrigation Infrastructure & Power Supply",
+      "category_type": "issue",
+      "parent_id": "irrigation_and_water_management",
+      "definition": "Functional status of agricultural pumps, power supply for tubewells, and maintenance of canal distributaries.",
+      "aliases": [
+        "agricultural motor power outage",
+        "burnt transformer for tubewells",
+        "canal breach",
+        "irrigation equipment breakdown"
+      ],
+      "source_frequency": 0,
+      "source_utterance_count": 0,
+      "example_utterance_ids": []
+    },
+    {
+      "id": "irrigation_and_water_management",
+      "name": "Irrigation & Agricultural Water",
+      "category_type": "theme",
+      "parent_id": "agriculture",
+      "definition": "Access to, infrastructure for, and management of water resources for agricultural cultivation.",
+      "aliases": [
+        "Irrigation & Agricultural Water"
+      ],
+      "source_frequency": 6,
+      "source_utterance_count": 6,
+      "example_utterance_ids": [
+        "01-03771-01",
+        "01-09172-02",
+        "01-10453-01",
+        "01-11067-01",
+        "01-11147-03",
+        "02-22153-01"
+      ]
+    },
+    {
+      "id": "fertilizer_and_seed_shortage",
+      "name": "Fertilizer & Seed Supply Shortages",
+      "category_type": "issue",
+      "parent_id": "agricultural_inputs_and_seeds",
+      "definition": "Non-availability, black marketing, or sub-standard quality of urea, DAP, certified seeds, and bio-fertilizers.",
+      "aliases": [
+        "Fertilizer & Seed Supply Shortage",
+        "urea scarcity",
+        "black marketing of fertilizer",
+        "seed quality issues"
+      ],
+      "source_frequency": 18,
+      "source_utterance_count": 18,
+      "example_utterance_ids": [
+        "01-00017-01",
+        "01-02325-01",
+        "01-02427-03",
+        "01-02454-02",
+        "01-02797-02",
+        "01-02879-01",
+        "01-03293-02",
+        "01-04043-03",
+        "01-04063-01",
+        "01-04189-03"
+      ]
+    },
+    {
+      "id": "pest_infestation_and_crop_disease",
+      "name": "Pest Infestation & Crop Diseases",
+      "category_type": "issue",
+      "parent_id": "agricultural_inputs_and_seeds",
+      "definition": "Outbreaks of agricultural pests, fungal infections, and crop blight leading to productivity loss.",
+      "aliases": [
+        "Pest Infestation & Crop Damage",
+        "crop blight",
+        "insect damage",
+        "plant disease outbreak"
+      ],
+      "source_frequency": 6,
+      "source_utterance_count": 6,
+      "example_utterance_ids": [
+        "01-02287-03",
+        "01-09382-01",
+        "01-11267-03",
+        "02-12932-02",
+        "02-15596-01",
+        "02-16918-01"
+      ]
+    },
+    {
+      "id": "agricultural_inputs_and_seeds",
+      "name": "Agricultural Inputs & Technology",
+      "category_type": "theme",
+      "parent_id": "agriculture",
+      "definition": "Procurement, pricing, quality, and availability of farming inputs including fertilizers, seeds, and agrochemicals.",
+      "aliases": [
+        "Agricultural Inputs & Technology"
+      ],
+      "source_frequency": 24,
+      "source_utterance_count": 24,
+      "example_utterance_ids": [
+        "01-00017-01",
+        "01-02287-03",
+        "01-02325-01",
+        "01-02427-03",
+        "01-02454-02",
+        "01-02797-02",
+        "01-02879-01",
+        "01-03293-02",
+        "01-04043-03",
+        "01-04063-01"
+      ]
+    },
+    {
+      "id": "crop_pricing_and_msp_access",
+      "name": "Crop Pricing & MSP Procurement",
+      "category_type": "issue",
+      "parent_id": "agricultural_markets_and_pricing",
+      "definition": "Distress sales below MSP, delayed PACS procurement, and lack of remunerative pricing for agricultural produce.",
+      "aliases": [
+        "Crop Pricing & Market Access",
+        "distress crop sale",
+        "delayed PACS procurement",
+        "low mandi rates"
+      ],
+      "source_frequency": 8,
+      "source_utterance_count": 8,
+      "example_utterance_ids": [
+        "01-00791-01",
+        "01-00863-02",
+        "01-02005-01",
+        "01-10453-01",
+        "01-11381-02",
+        "02-13748-02",
+        "02-15476-01",
+        "02-19879-01"
+      ]
+    },
+    {
+      "id": "agricultural_markets_and_pricing",
+      "name": "Agricultural Markets & Pricing",
+      "category_type": "theme",
+      "parent_id": "agriculture",
+      "definition": "Procurement systems, minimum support prices (MSP), mandi infrastructure, and fair market access for produce.",
+      "aliases": [
+        "Agricultural Markets & Pricing"
+      ],
+      "source_frequency": 8,
+      "source_utterance_count": 8,
+      "example_utterance_ids": [
+        "01-00791-01",
+        "01-00863-02",
+        "01-02005-01",
+        "01-10453-01",
+        "01-11381-02",
+        "02-13748-02",
+        "02-15476-01",
+        "02-19879-01"
+      ]
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & Allied Activities",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Practices, inputs, infrastructure, and markets related to farming, crop production, and allied livelihoods.",
+      "aliases": [
+        "Agriculture & Allied Activities"
+      ],
+      "source_frequency": 38,
+      "source_utterance_count": 36,
+      "example_utterance_ids": [
+        "01-00017-01",
+        "01-00791-01",
+        "01-00863-02",
+        "01-02005-01",
+        "01-02287-03",
+        "01-02325-01",
+        "01-02427-03",
+        "01-02454-02",
+        "01-02797-02",
+        "01-02879-01"
+      ]
+    },
+    {
+      "id": "handpump_and_groundwater_breakdown",
+      "name": "Handpump Breakdown & Groundwater Depletion",
+      "category_type": "issue",
+      "parent_id": "drinking_water_access",
+      "definition": "Functional failure of community handpumps, lowering groundwater levels, and dry season water crises.",
+      "aliases": [
+        "Handpump & Tap Water Breakdown",
+        "broken chapakal",
+        "dry handpumps",
+        "chapakal repair delays"
+      ],
+      "source_frequency": 9,
+      "source_utterance_count": 9,
+      "example_utterance_ids": [
+        "01-01756-02",
+        "01-02487-03",
+        "01-02981-03",
+        "01-03771-01",
+        "01-04393-01",
+        "01-06471-01",
+        "01-07022-01",
+        "01-11930-01",
+        "02-13625-02"
+      ]
+    },
+    {
+      "id": "piped_water_scheme_irregularity",
+      "name": "Piped Water Scheme Delivery Irregularity",
+      "category_type": "issue",
+      "parent_id": "drinking_water_access",
+      "definition": "Irregular water delivery, damaged pipelines, motor failure, and incomplete household connections under piped water schemes.",
+      "aliases": [
+        "Piped Water Scheme Irregularity",
+        "Nal Jal Yojana failure",
+        "irregular tap water supply",
+        "broken pipeline leakages"
+      ],
+      "source_frequency": 2,
+      "source_utterance_count": 2,
+      "example_utterance_ids": [
+        "01-10016-01",
+        "01-10106-01"
+      ]
+    },
+    {
+      "id": "drinking_water_access",
+      "name": "Potable Drinking Water Supply",
+      "category_type": "theme",
+      "parent_id": "water_and_sanitation",
+      "definition": "Access to safe, contamination-free drinking water through handpumps, public standposts, and piped connections.",
+      "aliases": [
+        "Potable Drinking Water Supply"
+      ],
+      "source_frequency": 11,
+      "source_utterance_count": 11,
+      "example_utterance_ids": [
+        "01-01756-02",
+        "01-02487-03",
+        "01-02981-03",
+        "01-03771-01",
+        "01-04393-01",
+        "01-06471-01",
+        "01-07022-01",
+        "01-10016-01",
+        "01-10106-01",
+        "01-11930-01"
+      ]
+    },
+    {
+      "id": "drainage_overflow_and_waste_accumulation",
+      "name": "Drainage Overflow & Waste Accumulation",
+      "category_type": "issue",
+      "parent_id": "sanitation_and_drainage",
+      "definition": "Blocked village drains, sewage water logging on village roads, and lack of solid waste disposal.",
+      "aliases": [
+        "Lack of Drainage & Sanitation Facilities",
+        "waterlogging in village lanes",
+        "open sewage overflow",
+        "absence of dustbins"
+      ],
+      "source_frequency": 24,
+      "source_utterance_count": 24,
+      "example_utterance_ids": [
+        "01-00572-02",
+        "01-01610-03",
+        "01-01756-02",
+        "01-02296-02",
+        "01-02299-01",
+        "01-02555-03",
+        "01-02981-03",
+        "01-03547-03",
+        "01-03992-01",
+        "01-05760-01"
+      ]
+    },
+    {
+      "id": "sanitation_and_drainage",
+      "name": "Sanitation & Village Drainage",
+      "category_type": "theme",
+      "parent_id": "water_and_sanitation",
+      "definition": "Household and community toilets, wastewater drainage channels, and solid/liquid waste hygiene.",
+      "aliases": [
+        "Sanitation & Village Drainage"
+      ],
+      "source_frequency": 24,
+      "source_utterance_count": 24,
+      "example_utterance_ids": [
+        "01-00572-02",
+        "01-01610-03",
+        "01-01756-02",
+        "01-02296-02",
+        "01-02299-01",
+        "01-02555-03",
+        "01-02981-03",
+        "01-03547-03",
+        "01-03992-01",
+        "01-05760-01"
+      ]
+    },
+    {
+      "id": "water_and_sanitation",
+      "name": "Water & Sanitation (WASH)",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Community access to potable drinking water, sanitation facilities, drainage, and waste management systems.",
+      "aliases": [
+        "Water & Sanitation (WASH)"
+      ],
+      "source_frequency": 35,
+      "source_utterance_count": 31,
+      "example_utterance_ids": [
+        "01-00572-02",
+        "01-01610-03",
+        "01-01756-02",
+        "01-02296-02",
+        "01-02299-01",
+        "01-02487-03",
+        "01-02555-03",
+        "01-02981-03",
+        "01-03547-03",
+        "01-03771-01"
+      ]
+    },
+    {
+      "id": "doctor_absence_and_medicine_shortage",
+      "name": "Doctor Absenteeism & Essential Drug Shortages",
+      "category_type": "issue",
+      "parent_id": "healthcare_access_and_facilities",
+      "definition": "Absence of medical officers at PHCs, closed dispensaries, and lack of free generic medicines.",
+      "aliases": [
+        "Doctor Absence & Medicine Shortage",
+        "absent doctor at PHC",
+        "lack of medicines in government hospital",
+        "closed sub-centre"
+      ],
+      "source_frequency": 52,
+      "source_utterance_count": 52,
+      "example_utterance_ids": [
+        "01-00700-03",
+        "01-00701-03",
+        "01-00709-02",
+        "01-00852-03",
+        "01-01239-01",
+        "01-01770-02",
+        "01-01864-01",
+        "01-01932-01",
+        "01-02181-02",
+        "01-02255-03"
+      ]
+    },
+    {
+      "id": "emergency_transport_and_ambulance",
+      "name": "Emergency Medical Transport & Ambulance Access",
+      "category_type": "issue",
+      "parent_id": "healthcare_access_and_facilities",
+      "definition": "Unavailability or delayed response of 102/108 emergency ambulance services for critical patients.",
+      "aliases": [
+        "lack of ambulance service",
+        "102 ambulance delay",
+        "maternity emergency transport failure"
+      ],
+      "source_frequency": 0,
+      "source_utterance_count": 0,
+      "example_utterance_ids": []
+    },
+    {
+      "id": "healthcare_access_and_facilities",
+      "name": "Primary Healthcare Access & Facilities",
+      "category_type": "theme",
+      "parent_id": "health_and_nutrition",
+      "definition": "Availability and functional quality of Sub-Centres, PHCs, and Community Health Centres.",
+      "aliases": [
+        "Primary Healthcare Access & Facilities"
+      ],
+      "source_frequency": 52,
+      "source_utterance_count": 52,
+      "example_utterance_ids": [
+        "01-00700-03",
+        "01-00701-03",
+        "01-00709-02",
+        "01-00852-03",
+        "01-01239-01",
+        "01-01770-02",
+        "01-01864-01",
+        "01-01932-01",
+        "01-02181-02",
+        "01-02255-03"
+      ]
+    },
+    {
+      "id": "vaccination_and_immunization_coverage",
+      "name": "Routine Immunization & Vaccination Delivery",
+      "category_type": "issue",
+      "parent_id": "maternal_child_health_and_nutrition",
+      "definition": "Organization of village Health & Nutrition Days (VHND) and child immunization coverage by ANMs/ASHAs.",
+      "aliases": [
+        "Vaccination & Immunization Coverage",
+        "immunization camp irregularity",
+        "missed child vaccination"
+      ],
+      "source_frequency": 5,
+      "source_utterance_count": 5,
+      "example_utterance_ids": [
+        "01-03068-01",
+        "01-04555-03",
+        "01-11217-01",
+        "02-13726-02",
+        "02-18753-01"
+      ]
+    },
+    {
+      "id": "anganwadi_nutrition_distribution",
+      "name": "Anganwadi Supplementary Nutrition Distribution",
+      "category_type": "issue",
+      "parent_id": "maternal_child_health_and_nutrition",
+      "definition": "Quality, regularity, and quantity of Take-Home Rations (THR) and hot cooked meals at Anganwadi centers.",
+      "aliases": [
+        "Anganwadi Nutrition Distribution Issues",
+        "poor anganwadi meal quality",
+        "THR distribution delay",
+        "anganwadi center closed"
+      ],
+      "source_frequency": 3,
+      "source_utterance_count": 3,
+      "example_utterance_ids": [
+        "01-01932-01",
+        "02-14454-01",
+        "02-21730-01"
+      ]
+    },
+    {
+      "id": "maternal_child_health_and_nutrition",
+      "name": "Maternal, Child Health & Nutrition",
+      "category_type": "theme",
+      "parent_id": "health_and_nutrition",
+      "definition": "Routine immunization, institutional delivery care, and Anganwadi supplementary nutritional support.",
+      "aliases": [
+        "Maternal, Child Health & Nutrition"
+      ],
+      "source_frequency": 8,
+      "source_utterance_count": 8,
+      "example_utterance_ids": [
+        "01-01932-01",
+        "01-03068-01",
+        "01-04555-03",
+        "01-11217-01",
+        "02-13726-02",
+        "02-14454-01",
+        "02-18753-01",
+        "02-21730-01"
+      ]
+    },
+    {
+      "id": "health_and_nutrition",
+      "name": "Health & Nutrition",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Public health services, primary health center operations, disease management, and maternal/child nutrition.",
+      "aliases": [
+        "Health & Nutrition"
+      ],
+      "source_frequency": 60,
+      "source_utterance_count": 57,
+      "example_utterance_ids": [
+        "01-00700-03",
+        "01-00701-03",
+        "01-00709-02",
+        "01-00852-03",
+        "01-01239-01",
+        "01-01770-02",
+        "01-01864-01",
+        "01-01932-01",
+        "01-02181-02",
+        "01-02255-03"
+      ]
+    },
+    {
+      "id": "teacher_shortage_and_absenteeism",
+      "name": "Teacher Shortage & Teacher Absenteeism",
+      "category_type": "issue",
+      "parent_id": "school_infrastructure_and_staffing",
+      "definition": "Deficit of qualified teachers in primary and middle schools and irregular attendance of teachers.",
+      "aliases": [
+        "Teacher Shortage & Absenteeism",
+        "single-teacher schools",
+        "irregular teacher attendance",
+        "vacant teacher posts"
+      ],
+      "source_frequency": 19,
+      "source_utterance_count": 19,
+      "example_utterance_ids": [
+        "01-00590-01",
+        "01-01532-03",
+        "01-02258-03",
+        "01-02535-01",
+        "01-03046-01",
+        "01-03686-02",
+        "01-05678-02",
+        "01-06843-03",
+        "01-06887-03",
+        "01-06978-03"
+      ]
+    },
+    {
+      "id": "dilapidated_school_buildings",
+      "name": "Dilapidated School Buildings & Basic Amenities",
+      "category_type": "issue",
+      "parent_id": "school_infrastructure_and_staffing",
+      "definition": "Unsafe school buildings, leaking roofs, lack of boundary walls, and absence of functional student toilets.",
+      "aliases": [
+        "damaged school building",
+        "lack of school drinking water",
+        "broken school boundary wall"
+      ],
+      "source_frequency": 0,
+      "source_utterance_count": 0,
+      "example_utterance_ids": []
+    },
+    {
+      "id": "school_infrastructure_and_staffing",
+      "name": "School Infrastructure & Staffing",
+      "category_type": "theme",
+      "parent_id": "education",
+      "definition": "Physical school facilities, classroom conditions, and teacher-pupil ratios.",
+      "aliases": [
+        "School Infrastructure & Staffing"
+      ],
+      "source_frequency": 19,
+      "source_utterance_count": 19,
+      "example_utterance_ids": [
+        "01-00590-01",
+        "01-01532-03",
+        "01-02258-03",
+        "01-02535-01",
+        "01-03046-01",
+        "01-03686-02",
+        "01-05678-02",
+        "01-06843-03",
+        "01-06887-03",
+        "01-06978-03"
+      ]
+    },
+    {
+      "id": "midday_meal_quality_and_regularity",
+      "name": "Mid-Day Meal Quality & Regularity",
+      "category_type": "issue",
+      "parent_id": "school_entitlements_and_nutrition",
+      "definition": "Hygiene, nutritional adequacy, and regular cooking of mid-day meals in government schools.",
+      "aliases": [
+        "Mid-Day Meal Quality & Irregularity",
+        "substandard school food",
+        "irregular MDM supply"
+      ],
+      "source_frequency": 4,
+      "source_utterance_count": 4,
+      "example_utterance_ids": [
+        "01-00954-03",
+        "01-02449-03",
+        "01-08941-03",
+        "13-00241-05"
+      ]
+    },
+    {
+      "id": "scholarship_and_uniform_entitlements",
+      "name": "Scholarship & Student Entitlement Disbursement",
+      "category_type": "issue",
+      "parent_id": "school_entitlements_and_nutrition",
+      "definition": "Timely receipt of government student scholarships, bicycle schemes, and uniform stipends.",
+      "aliases": [
+        "Scholarship & Uniform Entitlements",
+        "delayed student scholarship",
+        "uniform money not credited"
+      ],
+      "source_frequency": 7,
+      "source_utterance_count": 7,
+      "example_utterance_ids": [
+        "01-03695-02",
+        "01-06887-03",
+        "01-09228-01",
+        "01-11354-02",
+        "01-11822-02",
+        "02-12479-01",
+        "02-16956-01"
+      ]
+    },
+    {
+      "id": "school_entitlements_and_nutrition",
+      "name": "School Meals & Student Entitlements",
+      "category_type": "theme",
+      "parent_id": "education",
+      "definition": "Mid-day meal distribution, scholarships, textbooks, and school uniform allowances.",
+      "aliases": [
+        "School Meals & Student Entitlements"
+      ],
+      "source_frequency": 11,
+      "source_utterance_count": 11,
+      "example_utterance_ids": [
+        "01-00954-03",
+        "01-02449-03",
+        "01-03695-02",
+        "01-06887-03",
+        "01-08941-03",
+        "01-09228-01",
+        "01-11354-02",
+        "01-11822-02",
+        "02-12479-01",
+        "02-16956-01"
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education & Learning",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "School infrastructure, teaching quality, student enrollments, entitlements, and educational opportunities.",
+      "aliases": [
+        "Education & Learning"
+      ],
+      "source_frequency": 30,
+      "source_utterance_count": 27,
+      "example_utterance_ids": [
+        "01-00590-01",
+        "01-00954-03",
+        "01-01532-03",
+        "01-02258-03",
+        "01-02449-03",
+        "01-02535-01",
+        "01-03046-01",
+        "01-03686-02",
+        "01-03695-02",
+        "01-05678-02"
+      ]
+    },
+    {
+      "id": "dilapidated_roads_and_bridges",
+      "name": "Dilapidated Roads & Missing Culverts",
+      "category_type": "issue",
+      "parent_id": "roads_and_connectivity",
+      "definition": "Unpaved, muddy, or severely damaged rural roads hindering transportation and emergency access.",
+      "aliases": [
+        "Dilapidated Roads & Missing Bridges",
+        "pothole-ridden road",
+        "broken bridge",
+        "unpaved village link road"
+      ],
+      "source_frequency": 31,
+      "source_utterance_count": 31,
+      "example_utterance_ids": [
+        "01-01718-02",
+        "01-01756-02",
+        "01-01871-01",
+        "01-04071-02",
+        "01-04578-03",
+        "01-04937-02",
+        "01-04954-01",
+        "01-05048-02",
+        "01-05139-01",
+        "01-05313-01"
+      ]
+    },
+    {
+      "id": "roads_and_connectivity",
+      "name": "Rural Roads & Physical Connectivity",
+      "category_type": "theme",
+      "parent_id": "infrastructure_and_energy",
+      "definition": "All-weather road connectivity, village approach roads, culverts, and bridge construction.",
+      "aliases": [
+        "Rural Roads & Physical Connectivity"
+      ],
+      "source_frequency": 31,
+      "source_utterance_count": 31,
+      "example_utterance_ids": [
+        "01-01718-02",
+        "01-01756-02",
+        "01-01871-01",
+        "01-04071-02",
+        "01-04578-03",
+        "01-04937-02",
+        "01-04954-01",
+        "01-05048-02",
+        "01-05139-01",
+        "01-05313-01"
+      ]
+    },
+    {
+      "id": "power_outages_and_transformer_breakdown",
+      "name": "Frequent Power Outages & Burnt Transformers",
+      "category_type": "issue",
+      "parent_id": "electricity_supply_and_grid",
+      "definition": "Prolonged power blackouts, erratic voltage supply, and long delays in replacing burnt distribution transformers.",
+      "aliases": [
+        "Frequent Power Outages & Burnt Transformers",
+        "low voltage issues",
+        "transformer replacement delay",
+        "erratic power supply"
+      ],
+      "source_frequency": 48,
+      "source_utterance_count": 48,
+      "example_utterance_ids": [
+        "01-00177-01",
+        "01-00709-02",
+        "01-02813-03",
+        "01-03542-03",
+        "01-04033-03",
+        "01-04175-01",
+        "01-04377-02",
+        "01-04438-02",
+        "01-04909-01",
+        "01-05217-03"
+      ]
+    },
+    {
+      "id": "electricity_supply_and_grid",
+      "name": "Electricity Supply & Power Grid",
+      "category_type": "theme",
+      "parent_id": "infrastructure_and_energy",
+      "definition": "Household electricity connections, voltage stability, transformer repair, and grid uptime.",
+      "aliases": [
+        "Electricity Supply & Power Grid"
+      ],
+      "source_frequency": 48,
+      "source_utterance_count": 48,
+      "example_utterance_ids": [
+        "01-00177-01",
+        "01-00709-02",
+        "01-02813-03",
+        "01-03542-03",
+        "01-04033-03",
+        "01-04175-01",
+        "01-04377-02",
+        "01-04438-02",
+        "01-04909-01",
+        "01-05217-03"
+      ]
+    },
+    {
+      "id": "infrastructure_and_energy",
+      "name": "Infrastructure & Energy",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Physical connectivity, rural roads, bridges, electricity distribution, and power grid stability.",
+      "aliases": [
+        "Infrastructure & Energy"
+      ],
+      "source_frequency": 79,
+      "source_utterance_count": 79,
+      "example_utterance_ids": [
+        "01-00177-01",
+        "01-00709-02",
+        "01-01718-02",
+        "01-01756-02",
+        "01-01871-01",
+        "01-02813-03",
+        "01-03542-03",
+        "01-04033-03",
+        "01-04071-02",
+        "01-04175-01"
+      ]
+    },
+    {
+      "id": "pds_ration_shortage_and_irregularity",
+      "name": "PDS Ration Under-weighing & Irregular Distribution",
+      "category_type": "issue",
+      "parent_id": "public_distribution_system",
+      "definition": "Ration dealers providing less grain than mandated, overcharging, or irregular monthly distribution.",
+      "aliases": [
+        "PDS Ration Under-weighing & Black Marketing",
+        "ration dealer cut",
+        "grain diversion",
+        "ration card missing"
+      ],
+      "source_frequency": 10,
+      "source_utterance_count": 10,
+      "example_utterance_ids": [
+        "01-00757-02",
+        "01-00791-01",
+        "01-01736-03",
+        "01-03599-02",
+        "01-04665-03",
+        "01-05559-02",
+        "01-07328-02",
+        "01-07531-01",
+        "02-15104-01",
+        "13-00657-01"
+      ]
+    },
+    {
+      "id": "public_distribution_system",
+      "name": "Public Distribution System (PDS) & Food Security",
+      "category_type": "theme",
+      "parent_id": "governance_and_social_welfare",
+      "definition": "Fair price shops, ration card allocation, and subsidized foodgrain distribution.",
+      "aliases": [
+        "Public Distribution System (PDS) & Food Security"
+      ],
+      "source_frequency": 10,
+      "source_utterance_count": 10,
+      "example_utterance_ids": [
+        "01-00757-02",
+        "01-00791-01",
+        "01-01736-03",
+        "01-03599-02",
+        "01-04665-03",
+        "01-05559-02",
+        "01-07328-02",
+        "01-07531-01",
+        "02-15104-01",
+        "13-00657-01"
+      ]
+    },
+    {
+      "id": "delayed_pension_disbursement",
+      "name": "Delayed Social Pension Disbursement",
+      "category_type": "issue",
+      "parent_id": "social_security_pensions",
+      "definition": "Months of pending arrears in old age, widow, or disability pension payments.",
+      "aliases": [
+        "Delayed Pension Disbursement",
+        "unpaid old age pension",
+        "widow pension pending",
+        "DBT pension failure"
+      ],
+      "source_frequency": 9,
+      "source_utterance_count": 9,
+      "example_utterance_ids": [
+        "01-01532-03",
+        "01-08382-03",
+        "01-08652-01",
+        "01-10838-03",
+        "02-14361-01",
+        "02-14689-01",
+        "02-16790-01",
+        "02-19760-01",
+        "13-00630-01"
+      ]
+    },
+    {
+      "id": "social_security_pensions",
+      "name": "Social Security Pensions",
+      "category_type": "theme",
+      "parent_id": "governance_and_social_welfare",
+      "definition": "Old-age, widow, and disability pension enrollments and disbursement schedules.",
+      "aliases": [
+        "Social Security Pensions"
+      ],
+      "source_frequency": 9,
+      "source_utterance_count": 9,
+      "example_utterance_ids": [
+        "01-01532-03",
+        "01-08382-03",
+        "01-08652-01",
+        "01-10838-03",
+        "02-14361-01",
+        "02-14689-01",
+        "02-16790-01",
+        "02-19760-01",
+        "13-00630-01"
+      ]
+    },
+    {
+      "id": "mgnrega_wage_delays_and_work_allotment",
+      "name": "MGNREGA Wage Delays & Work Allocation",
+      "category_type": "issue",
+      "parent_id": "rural_employment_guarantee_mgnrega",
+      "definition": "Long delays in receiving MGNREGA wage payments and refusal by panchayats to provide 100 days of work.",
+      "aliases": [
+        "MGNREGA Wage Payment Delays & Work Allotment",
+        "pending MGNREGA wages",
+        "job card not issued",
+        "work not provided"
+      ],
+      "source_frequency": 7,
+      "source_utterance_count": 7,
+      "example_utterance_ids": [
+        "01-03523-03",
+        "01-04008-03",
+        "01-06627-01",
+        "01-08338-02",
+        "02-13705-01",
+        "02-16840-01",
+        "02-21759-01"
+      ]
+    },
+    {
+      "id": "rural_employment_guarantee_mgnrega",
+      "name": "Rural Employment Guarantee (MGNREGA)",
+      "category_type": "theme",
+      "parent_id": "governance_and_social_welfare",
+      "definition": "Work demand, muster roll generation, job card issuance, and wage payment under MGNREGA.",
+      "aliases": [
+        "Rural Employment Guarantee (MGNREGA)"
+      ],
+      "source_frequency": 7,
+      "source_utterance_count": 7,
+      "example_utterance_ids": [
+        "01-03523-03",
+        "01-04008-03",
+        "01-06627-01",
+        "01-08338-02",
+        "02-13705-01",
+        "02-16840-01",
+        "02-21759-01"
+      ]
+    },
+    {
+      "id": "administrative_unresponsiveness",
+      "name": "Administrative Unresponsiveness & Corruption Concerns",
+      "category_type": "issue",
+      "parent_id": "local_governance_accountability",
+      "definition": "Inaction on citizen complaints, bribery demands by middlemen, and lack of public hearings.",
+      "aliases": [
+        "Lack of Administrative Accountability",
+        "panchayat secretary absence",
+        "bribery demands",
+        "unheard grievances"
+      ],
+      "source_frequency": 83,
+      "source_utterance_count": 83,
+      "example_utterance_ids": [
+        "01-00108-02",
+        "01-00123-01",
+        "01-00133-02",
+        "01-00757-02",
+        "01-00791-01",
+        "01-01718-02",
+        "01-02586-03",
+        "01-02598-02",
+        "01-02727-02",
+        "01-02753-02"
+      ]
+    },
+    {
+      "id": "local_governance_accountability",
+      "name": "Local Governance & Administrative Redressal",
+      "category_type": "theme",
+      "parent_id": "governance_and_social_welfare",
+      "definition": "Panchayat functioning, block administration responsiveness, and grievance redressal systems.",
+      "aliases": [
+        "Local Governance & Administrative Redressal"
+      ],
+      "source_frequency": 83,
+      "source_utterance_count": 83,
+      "example_utterance_ids": [
+        "01-00108-02",
+        "01-00123-01",
+        "01-00133-02",
+        "01-00757-02",
+        "01-00791-01",
+        "01-01718-02",
+        "01-02586-03",
+        "01-02598-02",
+        "01-02727-02",
+        "01-02753-02"
+      ]
+    },
+    {
+      "id": "governance_and_social_welfare",
+      "name": "Governance & Social Entitlements",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Public welfare delivery, food security, social security pensions, employment guarantees, and local administration.",
+      "aliases": [
+        "Governance & Social Entitlements"
+      ],
+      "source_frequency": 109,
+      "source_utterance_count": 102,
+      "example_utterance_ids": [
+        "01-00108-02",
+        "01-00123-01",
+        "01-00133-02",
+        "01-00757-02",
+        "01-00791-01",
+        "01-01532-03",
+        "01-01718-02",
+        "01-01736-03",
+        "01-02586-03",
+        "01-02598-02"
+      ]
+    },
+    {
+      "id": "lack_of_local_livelihood_opportunities",
+      "name": "Deficit of Local Non-Farm Livelihood Opportunities",
+      "category_type": "issue",
+      "parent_id": "local_livelihoods_and_wages",
+      "definition": "Insufficient local employment forcing youth and laborers into unemployment or underemployment.",
+      "aliases": [
+        "Lack of Local Livelihood Opportunities",
+        "rural unemployment",
+        "lack of factory jobs",
+        "unremunerative daily wage"
+      ],
+      "source_frequency": 12,
+      "source_utterance_count": 12,
+      "example_utterance_ids": [
+        "01-03350-03",
+        "01-03523-03",
+        "01-05654-02",
+        "01-06268-01",
+        "01-06743-03",
+        "01-07925-03",
+        "01-08786-02",
+        "01-08791-01",
+        "02-13024-01",
+        "02-16840-01"
+      ]
+    },
+    {
+      "id": "local_livelihoods_and_wages",
+      "name": "Local Employment & Wage Work",
+      "category_type": "theme",
+      "parent_id": "employment_and_livelihoods",
+      "definition": "Availability of rural non-farm employment, fair daily wages, and micro-enterprise opportunities.",
+      "aliases": [
+        "Local Employment & Wage Work"
+      ],
+      "source_frequency": 12,
+      "source_utterance_count": 12,
+      "example_utterance_ids": [
+        "01-03350-03",
+        "01-03523-03",
+        "01-05654-02",
+        "01-06268-01",
+        "01-06743-03",
+        "01-07925-03",
+        "01-08786-02",
+        "01-08791-01",
+        "02-13024-01",
+        "02-16840-01"
+      ]
+    },
+    {
+      "id": "distress_out_migration",
+      "name": "Distress Out-Migration for Work",
+      "category_type": "issue",
+      "parent_id": "labor_migration",
+      "definition": "Compelled migration to distant states due to lack of local earnings, facing hazardous conditions.",
+      "aliases": [
+        "Distress Out-Migration for Work",
+        "interstate labor migration",
+        "migrant worker vulnerability",
+        "family displacement"
+      ],
+      "source_frequency": 22,
+      "source_utterance_count": 22,
+      "example_utterance_ids": [
+        "01-00783-02",
+        "01-01306-02",
+        "01-01912-02",
+        "01-02288-01",
+        "01-02487-03",
+        "01-02581-02",
+        "01-03508-02",
+        "01-03508-03",
+        "01-03700-03",
+        "01-03802-03"
+      ]
+    },
+    {
+      "id": "labor_migration",
+      "name": "Labor Migration & Worker Welfare",
+      "category_type": "theme",
+      "parent_id": "employment_and_livelihoods",
+      "definition": "Seasonal distress out-migration to urban centers and challenges faced by migrant families.",
+      "aliases": [
+        "Labor Migration & Worker Welfare"
+      ],
+      "source_frequency": 22,
+      "source_utterance_count": 22,
+      "example_utterance_ids": [
+        "01-00783-02",
+        "01-01306-02",
+        "01-01912-02",
+        "01-02288-01",
+        "01-02487-03",
+        "01-02581-02",
+        "01-03508-02",
+        "01-03508-03",
+        "01-03700-03",
+        "01-03802-03"
+      ]
+    },
+    {
+      "id": "employment_and_livelihoods",
+      "name": "Employment, Livelihoods & Migration",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Rural livelihoods, wage labor availability, skill training, and seasonal/distress migration dynamics.",
+      "aliases": [
+        "Employment, Livelihoods & Migration"
+      ],
+      "source_frequency": 34,
+      "source_utterance_count": 34,
+      "example_utterance_ids": [
+        "01-00783-02",
+        "01-01306-02",
+        "01-01912-02",
+        "01-02288-01",
+        "01-02487-03",
+        "01-02581-02",
+        "01-03350-03",
+        "01-03508-02",
+        "01-03508-03",
+        "01-03523-03"
+      ]
+    },
+    {
+      "id": "housing_scheme_installment_delays",
+      "name": "Housing Scheme Installment Delays & Exclusion",
+      "category_type": "issue",
+      "parent_id": "rural_housing_schemes",
+      "definition": "Delayed second/third installment payouts for house construction and wrongful exclusion from beneficiary lists.",
+      "aliases": [
+        "Pradhan Mantri Awas Yojana Installment Delays",
+        "PMAY list exclusion",
+        "delayed housing payment",
+        "bribe for housing grant"
+      ],
+      "source_frequency": 9,
+      "source_utterance_count": 9,
+      "example_utterance_ids": [
+        "01-01306-02",
+        "01-02222-02",
+        "01-02586-03",
+        "01-05654-02",
+        "01-05666-03",
+        "01-08420-01",
+        "01-09128-02",
+        "01-10294-03",
+        "02-20363-01"
+      ]
+    },
+    {
+      "id": "rural_housing_schemes",
+      "name": "Rural Housing Assistance",
+      "category_type": "theme",
+      "parent_id": "housing_and_disaster",
+      "definition": "Sanctioning, installment disbursements, and construction under Pradhan Mantri Awas Yojana (PMAY-G).",
+      "aliases": [
+        "Rural Housing Assistance"
+      ],
+      "source_frequency": 9,
+      "source_utterance_count": 9,
+      "example_utterance_ids": [
+        "01-01306-02",
+        "01-02222-02",
+        "01-02586-03",
+        "01-05654-02",
+        "01-05666-03",
+        "01-08420-01",
+        "01-09128-02",
+        "01-10294-03",
+        "02-20363-01"
+      ]
+    },
+    {
+      "id": "flood_damage_and_relief_delays",
+      "name": "Flood Inundation & Delayed Relief Assistance",
+      "category_type": "issue",
+      "parent_id": "disaster_and_flood_relief",
+      "definition": "Submergence of homes and farmland during monsoon floods and delay in government gratuitous relief/compensation.",
+      "aliases": [
+        "Flood Damage & Delayed Compensation",
+        "flood compensation delay",
+        "crop submergence relief",
+        "damaged shelter assistance"
+      ],
+      "source_frequency": 1,
+      "source_utterance_count": 1,
+      "example_utterance_ids": [
+        "02-21356-01"
+      ]
+    },
+    {
+      "id": "disaster_and_flood_relief",
+      "name": "Disaster Vulnerability & Flood Relief",
+      "category_type": "theme",
+      "parent_id": "housing_and_disaster",
+      "definition": "Monsoon flooding, river bank erosion, crop inundation, and state disaster relief delivery.",
+      "aliases": [
+        "Disaster Vulnerability & Flood Relief"
+      ],
+      "source_frequency": 1,
+      "source_utterance_count": 1,
+      "example_utterance_ids": [
+        "02-21356-01"
+      ]
+    },
+    {
+      "id": "housing_and_disaster",
+      "name": "Housing & Disaster Resilience",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Pucca housing assistance, disaster vulnerability (floods/droughts), and emergency relief support.",
+      "aliases": [
+        "Housing & Disaster Resilience"
+      ],
+      "source_frequency": 10,
+      "source_utterance_count": 10,
+      "example_utterance_ids": [
+        "01-01306-02",
+        "01-02222-02",
+        "01-02586-03",
+        "01-05654-02",
+        "01-05666-03",
+        "01-08420-01",
+        "01-09128-02",
+        "01-10294-03",
+        "02-20363-01",
+        "02-21356-01"
+      ]
+    },
+    {
+      "id": "shg_credit_and_livelihood_support",
+      "name": "SHG Micro-Credit & Livelihood Mobilization",
+      "category_type": "issue",
+      "parent_id": "women_empowerment_and_shgs",
+      "definition": "Access to revolving funds, bank linkages, and group enterprise support for women SHG members.",
+      "aliases": [
+        "SHG Credit & Livelihood Support",
+        "Jeevika group loan delays",
+        "SHG meeting facilitation"
+      ],
+      "source_frequency": 14,
+      "source_utterance_count": 14,
+      "example_utterance_ids": [
+        "01-02212-03",
+        "01-02923-03",
+        "01-08420-01",
+        "01-09381-02",
+        "01-09750-01",
+        "01-10453-01",
+        "02-12727-01",
+        "02-17092-01",
+        "02-19417-01",
+        "02-20130-01"
+      ]
+    },
+    {
+      "id": "women_empowerment_and_shgs",
+      "name": "Women Empowerment & Self-Help Groups",
+      "category_type": "theme",
+      "parent_id": "community_and_culture",
+      "definition": "Functioning of SHG federations (Jeevika/SRLM), micro-credit access, and women's collective initiatives.",
+      "aliases": [
+        "Women Empowerment & Self-Help Groups"
+      ],
+      "source_frequency": 14,
+      "source_utterance_count": 14,
+      "example_utterance_ids": [
+        "01-02212-03",
+        "01-02923-03",
+        "01-08420-01",
+        "01-09381-02",
+        "01-09750-01",
+        "01-10453-01",
+        "02-12727-01",
+        "02-17092-01",
+        "02-19417-01",
+        "02-20130-01"
+      ]
+    },
+    {
+      "id": "community_updates_and_public_notices",
+      "name": "Civic Information & Community Announcements",
+      "category_type": "issue",
+      "parent_id": "civic_awareness_and_community_affairs",
+      "definition": "Dissemination of local development news, awareness campaigns, and community announcements.",
+      "aliases": [
+        "General Community Update",
+        "Civic Information Dissemination",
+        "General Public Grievance"
+      ],
+      "source_frequency": 936,
+      "source_utterance_count": 936,
+      "example_utterance_ids": [
+        "01-00004-03",
+        "01-00008-01",
+        "01-00048-01",
+        "01-00049-03",
+        "01-00067-02",
+        "01-00071-01",
+        "01-00075-02",
+        "01-00092-02",
+        "01-00095-01",
+        "01-00102-01"
+      ]
+    },
+    {
+      "id": "civic_awareness_and_community_affairs",
+      "name": "Community Information & Civic Updates",
+      "category_type": "theme",
+      "parent_id": "community_and_culture",
+      "definition": "Broadcasting public notices, cultural festivals, listener feedback, and local community news.",
+      "aliases": [
+        "Community Information & Civic Updates"
+      ],
+      "source_frequency": 936,
+      "source_utterance_count": 936,
+      "example_utterance_ids": [
+        "01-00004-03",
+        "01-00008-01",
+        "01-00048-01",
+        "01-00049-03",
+        "01-00067-02",
+        "01-00071-01",
+        "01-00075-02",
+        "01-00092-02",
+        "01-00095-01",
+        "01-00102-01"
+      ]
+    },
+    {
+      "id": "community_and_culture",
+      "name": "Community & Civic Life",
+      "category_type": "domain",
+      "parent_id": null,
+      "definition": "Community self-help groups (SHGs), collective action, women empowerment, cultural events, and civic awareness.",
+      "aliases": [
+        "Community & Civic Life"
+      ],
+      "source_frequency": 950,
+      "source_utterance_count": 950,
+      "example_utterance_ids": [
+        "01-00004-03",
+        "01-00008-01",
+        "01-00048-01",
+        "01-00049-03",
+        "01-00067-02",
+        "01-00071-01",
+        "01-00075-02",
+        "01-00092-02",
+        "01-00095-01",
+        "01-00102-01"
+      ]
+    }
+  ]
+}

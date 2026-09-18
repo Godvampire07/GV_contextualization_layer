@@ -1,0 +1,91 @@
+{
+  "source_dataset": "data\\master\\gv_master_metadata.csv",
+  "source_row_count": 37152,
+  "sample_size": 1500,
+  "random_seed": 42,
+  "sampling_methodology": "Multi-attribute stratified quota sampling (State, District, Sentiment, Background, Gender, Age, Accent, Length Bins) with random residual component",
+  "timestamp_utc": "2026-09-15T11:21:14.556963+00:00",
+  "distributions": {
+    "State": {
+      "nan": 956,
+      "Bihar": 474,
+      "Jharkhand": 32,
+      "Madhya_pradesh": 12,
+      "Maharashtra": 10,
+      "West_bengal": 8,
+      "Uttar_pradesh": 3,
+      "Rajasthan": 3,
+      "New_delhi": 2
+    },
+    "District": {
+      "nan": 1453,
+      "Munger": 5,
+      "Dhanbad": 5,
+      "Darbhanga": 3,
+      "Ranchi": 3,
+      "Ramgarh": 3,
+      "Kota": 3,
+      "Bokaro": 3,
+      "Dhalai": 3,
+      "Lucknow": 3,
+      "Samastipur": 3,
+      "Muzaffarpur": 3,
+      "Madhubani": 3,
+      "Jamui": 2,
+      "Bhagalpur": 1,
+      "Patna": 1,
+      "Satna": 1,
+      "Buldhana": 1,
+      "Nalanda": 1
+    },
+    "Sentiment": {
+      "nan": 1091,
+      "Serious": 322,
+      "Happy": 37,
+      "Sad": 33,
+      "Angry": 16,
+      "Tense": 1
+    },
+    "Background": {
+      "nan": 1226,
+      "Music": 235,
+      "Noise": 28,
+      "No_speaking": 11
+    },
+    "Gender": {
+      "Male": 782,
+      "Female": 493,
+      "nan": 188,
+      "Gender_unknown": 37
+    },
+    "Age": {
+      "Adult": 1139,
+      "nan": 261,
+      "Child": 51,
+      "Age_unknown": 49
+    },
+    "Accent": {
+      "Accent_unknown": 570,
+      "Bihari": 461,
+      "nan": 357,
+      "Bhojpuri": 62,
+      "Normal_hindi": 18,
+      "Jharkhandi": 15,
+      "Bengali": 8,
+      "Marathi": 6,
+      "Lucknowi": 3
+    },
+    "Transcript_Length_Bins": {
+      "medium (16-30 words)": 796,
+      "short (<=15 words)": 354,
+      "long (>30 words)": 350
+    }
+  },
+  "transcript_word_count_stats": {
+    "min": 2,
+    "max": 120,
+    "mean": 23.76,
+    "median": 24.0,
+    "std": 11.54
+  }
+}

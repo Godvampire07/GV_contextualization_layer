@@ -1,0 +1,138 @@
+================================================================================
+GRAM VAANI MASTER CORPUS DATA AUDIT REPORT
+================================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+Source File: data\master\gv_master_metadata.csv
+Total Rows: 37,152
+Total Columns: 13
+Columns: utt_id, audio_path, reference, Accent, Age, Gender, Background, Sentiment, District, State, Other, audio_drive_id, audio_filename
+Duplicate Utterance IDs: 0
+Unique Utterance IDs: 37,152
+
+2. MISSING VALUES PER COLUMN
+----------------------------------------
+  - utt_id          :      0 missing ( 0.00%)
+  - audio_path      :      0 missing ( 0.00%)
+  - reference       :      0 missing ( 0.00%)
+  - Accent          :  6,351 missing (17.09%)
+  - Age             :  3,842 missing (10.34%)
+  - Gender          :  2,341 missing ( 6.30%)
+  - Background      : 33,383 missing (89.86%)
+  - Sentiment       : 30,558 missing (82.25%)
+  - District        : 37,074 missing (99.79%)
+  - State           : 25,087 missing (67.53%)
+  - Other           : 22,454 missing (60.44%)
+  - audio_drive_id  :      0 missing ( 0.00%)
+  - audio_filename  :      0 missing ( 0.00%)
+
+3. TRANSCRIPT STATISTICS (reference column)
+----------------------------------------
+  - Missing Transcripts : 0
+  - Empty Transcripts   : 0
+  - Valid Transcripts   : 37,152
+  - Word Count Min      : 2
+  - Word Count Max      : 264
+  - Word Count Mean     : 23.47
+  - Word Count Median   : 24.0
+  - Word Count StdDev   : 10.52
+  - Word Count Percentiles:
+      *  5th: 8.0 words
+      * 10th: 11.0 words
+      * 25th: 17.0 words
+      * 50th: 24.0 words
+      * 75th: 29.0 words
+      * 90th: 34.0 words
+      * 95th: 37.0 words
+      * 99th: 51.5 words
+
+4. METADATA DISTRIBUTIONS
+----------------------------------------
+[State] - Unique Non-Null: 8, Nulls: 25,087
+    * nan                      : 25,087 (67.53%)
+    * Bihar                    : 11,944 (32.15%)
+    * Jharkhand                :     55 ( 0.15%)
+    * Madhya_pradesh           :     40 ( 0.11%)
+    * Maharashtra              :     10 ( 0.03%)
+    * West_bengal              :      8 ( 0.02%)
+    * Uttar_pradesh            :      3 ( 0.01%)
+    * Rajasthan                :      3 ( 0.01%)
+    * New_delhi                :      2 ( 0.01%)
+
+[District] - Unique Non-Null: 18, Nulls: 37,074
+    * nan                      : 37,074 (99.79%)
+    * Dhanbad                  :     12 ( 0.03%)
+    * Munger                   :     11 ( 0.03%)
+    * Samastipur               :     11 ( 0.03%)
+    * Madhubani                :      7 ( 0.02%)
+    * Darbhanga                :      6 ( 0.02%)
+    * Bokaro                   :      4 ( 0.01%)
+    * Ranchi                   :      4 ( 0.01%)
+    * Dhalai                   :      4 ( 0.01%)
+    * Ramgarh                  :      3 ( 0.01%)
+    * Kota                     :      3 ( 0.01%)
+    * Lucknow                  :      3 ( 0.01%)
+    * Muzaffarpur              :      3 ( 0.01%)
+    * Jamui                    :      2 ( 0.01%)
+    * Bhagalpur                :      1 ( 0.00%)
+    * ... and 4 more categories
+
+[Sentiment] - Unique Non-Null: 5, Nulls: 30,558
+    * nan                      : 30,558 (82.25%)
+    * Serious                  :  6,080 (16.37%)
+    * Sad                      :    338 ( 0.91%)
+    * Happy                    :    159 ( 0.43%)
+    * Angry                    :     16 ( 0.04%)
+    * Tense                    :      1 ( 0.00%)
+
+[Background] - Unique Non-Null: 3, Nulls: 33,383
+    * nan                      : 33,383 (89.86%)
+    * Music                    :  3,693 ( 9.94%)
+    * Noise                    :     65 ( 0.17%)
+    * No_speaking              :     11 ( 0.03%)
+
+[Gender] - Unique Non-Null: 3, Nulls: 2,341
+    * Male                     : 24,280 (65.35%)
+    * Female                   : 10,494 (28.25%)
+    * nan                      :  2,341 ( 6.30%)
+    * Gender_unknown           :     37 ( 0.10%)
+
+[Age] - Unique Non-Null: 3, Nulls: 3,842
+    * Adult                    : 32,824 (88.35%)
+    * nan                      :  3,842 (10.34%)
+    * Age_unknown              :    278 ( 0.75%)
+    * Child                    :    208 ( 0.56%)
+
+[Accent] - Unique Non-Null: 8, Nulls: 6,351
+    * Accent_unknown           : 18,119 (48.77%)
+    * Bihari                   : 11,865 (31.94%)
+    * nan                      :  6,351 (17.09%)
+    * Bhojpuri                 :    767 ( 2.06%)
+    * Normal_hindi             :     18 ( 0.05%)
+    * Jharkhandi               :     15 ( 0.04%)
+    * Bengali                  :      8 ( 0.02%)
+    * Marathi                  :      6 ( 0.02%)
+    * Lucknowi                 :      3 ( 0.01%)
+
+[Other] - Unique Non-Null: 38, Nulls: 22,454
+    * nan                      : 22,454 (60.44%)
+    * inaudible                :  8,300 (22.34%)
+    * audio_jump               :  3,227 ( 8.69%)
+    * audio_jump,inaudible     :  1,385 ( 3.73%)
+    * speaker_change           :    654 ( 1.76%)
+    * not_clear                :    267 ( 0.72%)
+    * audio_jump,speaker_change:    187 ( 0.50%)
+    * audio_break              :    173 ( 0.47%)
+    * inaudible,speaker_change :    173 ( 0.47%)
+    * audio_jump,inaudible,speaker_change:     70 ( 0.19%)
+    * audio_break,inaudible    :     56 ( 0.15%)
+    * laugh                    :     41 ( 0.11%)
+    * laugh,speaker_change     :     29 ( 0.08%)
+    * audio_jump,not_clear     :     28 ( 0.08%)
+    * audio_break,audio_jump   :     23 ( 0.06%)
+    * ... and 24 more categories
+
+================================================================================
+END OF AUDIT REPORT
+================================================================================

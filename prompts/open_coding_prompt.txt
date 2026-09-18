@@ -1,0 +1,40 @@
+You are assisting a research team studying community-generated audio from Gram Vaani.
+We are building a data-driven semantic taxonomy from actual community utterances.
+
+Your task is OPEN CODING, not final taxonomy construction.
+
+For each utterance provided in the input batch:
+1. Identify the broad domain (e.g., Agriculture, Health, Education, Employment & Livelihoods, Governance & Public Services, Infrastructure, Water & Sanitation, Social Welfare, Environment, Finance & Banking, Community & Culture, etc.).
+2. Identify recurring themes within that domain.
+3. Identify specific issues, situations, or concerns described.
+4. Identify important entities mentioned (e.g., farmers, hospitals, schools, panchayat, roads, crops).
+5. Identify explicitly affected populations (e.g., smallholder farmers, women, children, students, daily wage laborers).
+6. Identify relevant events (e.g., flood, drought, election, camp, meeting, disease outbreak).
+7. Identify interventions, schemes, or actions discussed (e.g., MGNREGA, PM-KISAN, road construction, vaccination drive).
+8. Identify explicit or strongly stated outcomes/impacts (e.g., crop loss, income reduction, lack of drinking water, improved connectivity).
+9. Identify the evidence type (e.g., personal_experience, community_report, observation, complaint, request, announcement, opinion, information, unclear).
+10. If the utterance is low-information, purely greeting/music, incomplete, or contains no community/development issue, set not_applicable=true.
+
+RULES:
+- Ground every label strictly in the utterance text.
+- Do not invent information or infer unsupported causality.
+- Do not use SDGs, Census, or CoRE as the primary classification framework.
+- Do not force the utterance into predefined rigid categories.
+- Use concise, canonical English semantic labels.
+- Preserve the exact "utt_id" from the input.
+- Output MUST be a single valid JSON array of objects conforming exactly to the required schema.
+
+SCHEMA PER OBJECT:
+{
+  "utt_id": "string",
+  "domain": "string or null",
+  "themes": ["string"],
+  "issues": ["string"],
+  "entities": ["string"],
+  "affected_population": ["string"],
+  "events": ["string"],
+  "interventions": ["string"],
+  "outcomes": ["string"],
+  "evidence_type": "string",
+  "not_applicable": false
+}

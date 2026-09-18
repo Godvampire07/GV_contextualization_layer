@@ -1,0 +1,164 @@
+{
+  "dataset_size": 1000,
+  "gate_1": {
+    "total_utterances": 1000,
+    "eligible_substantive_evidence": 178,
+    "public_information_bulletins_isolated": 7,
+    "controlled_media_modalities_isolated": 815,
+    "unknown_review_required": 0
+  },
+  "gate_2": {
+    "substantive_evaluated": 178,
+    "consistent": 140,
+    "partially_consistent": 34,
+    "inconsistent": 4,
+    "uncertain": 0,
+    "conflict_patterns_detected": {
+      "pattern_a_mgnrega_cib_transparency": 1,
+      "pattern_b_school_wash_sanitation": 1,
+      "pattern_c_transport_safety_mismatch": 2,
+      "pattern_d_hospital_charges_mismatch": 2,
+      "pedagogical_qualification_nuance": 1
+    }
+  },
+  "gate_3": {
+    "total_synthesized_insights": 117,
+    "homogeneous_insights": 93,
+    "partially_consistent_insights": 24,
+    "inconsistent_utterances_blocked": 4
+  },
+  "external_alignment": {
+    "eligible_gv_insights": 117,
+    "successfully_aligned": 63,
+    "rejected_at_gate_2": 4,
+    "review_required": 22,
+    "no_reliable_correspondence_control_passed": true
+  },
+  "previous_failure_cases": [
+    {
+      "case_id": "ALIGN_001",
+      "original_utts": [
+        "01-09983-02",
+        "02-17143-01"
+      ],
+      "issue": "Frequent Power Outages, Low Voltage & Burnt Transformers",
+      "gate_1_behavior": "Utterance 01-09983-02 (feeder shutdown notice) flagged as public_information_bulletin and ISOLATED from grievance synthesis; 02-17143-01 (load-shedding report) validated as citizen_grievance.",
+      "gate_2_behavior": "02-17143-01 passed as consistent.",
+      "gate_3_behavior": "Synthesized pure outage insight from 02-17143-01 without bulletin conflation.",
+      "alignment_decision": "validated_with_caveat",
+      "reason": "Contextual relationship to SDG 7.1.1 validated on pure citizen grievance evidence."
+    },
+    {
+      "case_id": "ALIGN_002",
+      "original_utts": [
+        "01-05273-03",
+        "01-05235-02"
+      ],
+      "issue": "Doctor Absenteeism & Essential Drug Shortages",
+      "gate_1_behavior": "Both utterances eligible citizen grievances.",
+      "gate_2_behavior": "01-05273-03 passed as consistent for doctor absence at Agera PHC; 01-05235-02 flagged as partially_consistent (hospital fee bribery).",
+      "gate_3_behavior": "Isolated 01-05273-03 to pure doctor absence insight; translation extrapolations removed.",
+      "alignment_decision": "validated_with_caveat",
+      "reason": "Contextual relationship to SDG 3.c.1 validated on grounded doctor absence evidence."
+    },
+    {
+      "case_id": "ALIGN_003",
+      "original_utts": [
+        "02-17203-01",
+        "01-08604-01"
+      ],
+      "issue": "Dilapidated Roads, Potholes & Missing Culverts",
+      "gate_1_behavior": "Both utterances eligible citizen grievances.",
+      "gate_2_behavior": "02-17203-01 passed as consistent (road cracked in 2-3 months); 01-08604-01 flagged as inconsistent (bus GPS / driver license check belongs under Public Safety).",
+      "gate_3_behavior": "01-08604-01 excluded from road infrastructure insight; pure road damage insight formed from 02-17203-01.",
+      "alignment_decision": "validated_with_caveat",
+      "reason": "Contextual relationship to SDG 9.1.1 validated on road cracking evidence."
+    },
+    {
+      "case_id": "ALIGN_004",
+      "original_utts": [
+        "01-06359-03"
+      ],
+      "issue": "PDS Ration Under-weighing & Irregular Distribution",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "100% consistent. Direct evidence of 2 kg grain deduction per card in Barkakala.",
+      "gate_3_behavior": "Homogeneous single-utterance insight.",
+      "alignment_decision": "validated",
+      "reason": "Narrower concept relationship to NFSA Section 3(1) statutory entitlement delivery validated with high confidence."
+    },
+    {
+      "case_id": "ALIGN_005",
+      "original_utts": [
+        "13-00685-03"
+      ],
+      "issue": "MGNREGA Wage Delays, Job Cards & Work Allotment",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "FLAGGED AS INCONSISTENT (pattern_a_mgnrega_cib_transparency). Evidence describes missing worksite Citizen Information Boards, NOT wage delays or job cards.",
+      "gate_3_behavior": "Blocked from grievance insight synthesis under Wage Delays.",
+      "alignment_decision": "rejected",
+      "reason": "BLOCKED AT GATE 2: Evidence contradicts assigned taxonomy issue; downstream alignment prohibited."
+    },
+    {
+      "case_id": "ALIGN_006",
+      "original_utts": [
+        "01-05597-03"
+      ],
+      "issue": "Irrigation Water Availability",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "100% consistent. Farmer grievance regarding unmet irrigation water commitments.",
+      "gate_3_behavior": "Homogeneous insight.",
+      "alignment_decision": "validated",
+      "reason": "Contextual relationship to Census 2011 Village Directory Irrigation Amenities validated with high confidence."
+    },
+    {
+      "case_id": "ALIGN_007",
+      "original_utts": [
+        "13-00241-04"
+      ],
+      "issue": "Teacher Shortage & Teacher Absenteeism",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "Partially consistent (pedagogical qualification nuance: Shiksha Mitra untrained teachers).",
+      "gate_3_behavior": "Grounded insight preserved with pedagogical nuance tag.",
+      "alignment_decision": "validated_with_caveat",
+      "reason": "Contextual relationship to SDG 4.c.1 validated with caveat regarding teacher training vs headcount shortage."
+    },
+    {
+      "case_id": "ALIGN_008",
+      "original_utts": [
+        "01-04803-03"
+      ],
+      "issue": "Aadhaar, Voter ID & Bank DBT Seeding Hurdles",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "100% consistent. Supreme Court Aadhaar compliance and mandatory linkage barrier in Sonepur.",
+      "gate_3_behavior": "Homogeneous insight.",
+      "alignment_decision": "validated",
+      "reason": "Contextual relationship to SDG 1.3.1 (Social protection floor access barriers) validated with high confidence."
+    },
+    {
+      "case_id": "ALIGN_009",
+      "original_utts": [
+        "13-00416-04"
+      ],
+      "issue": "Teacher Shortage & Teacher Absenteeism",
+      "gate_1_behavior": "Eligible citizen grievance.",
+      "gate_2_behavior": "FLAGGED AS INCONSISTENT (pattern_b_school_wash_sanitation). Evidence concerns broken school toilets, foul smell, and defunct handpumps, NOT teacher shortage.",
+      "gate_3_behavior": "Blocked from insight synthesis under Teacher Shortage issue.",
+      "alignment_decision": "rejected",
+      "reason": "BLOCKED AT GATE 2: Evidence contradicts assigned taxonomy issue; forced mapping to SDG 4.a.1(d) prohibited."
+    },
+    {
+      "case_id": "ALIGN_010",
+      "original_utts": [
+        "13-00077-02",
+        "13-00149-02"
+      ],
+      "issue": "Modality: platform_broadcast_bumper",
+      "gate_1_behavior": "Identified as platform_broadcast_bumper modality; excluded from grievance synthesis.",
+      "gate_2_behavior": "Not applicable.",
+      "gate_3_behavior": "Isolated to non-substantive media category.",
+      "alignment_decision": "validated",
+      "reason": "Negative control: no_reliable_correspondence validated by design."
+    }
+  ],
+  "scale_up_readiness": "READY_FOR_37K"
+}

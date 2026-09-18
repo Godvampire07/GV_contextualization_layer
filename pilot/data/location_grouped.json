@@ -1,0 +1,3474 @@
+{
+  "Madhubani, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0001",
+          "location": "Madhubani, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 101,
+          "utterance_ids": [
+            "13-00077-02",
+            "13-00149-02",
+            "13-00241-03",
+            "13-00241-06",
+            "01-05026-03",
+            "13-00076-02",
+            "13-00099-02",
+            "13-00138-06",
+            "13-00137-01",
+            "13-00137-04",
+            "13-00143-04",
+            "13-00143-05",
+            "13-00143-06",
+            "13-00145-01",
+            "13-00148-03",
+            "13-00148-05",
+            "13-00162-06",
+            "13-00163-01",
+            "13-00270-03",
+            "13-00271-03",
+            "13-00273-05",
+            "13-00287-01",
+            "13-00289-06",
+            "13-00295-03",
+            "13-00299-01",
+            "13-00313-04",
+            "13-00313-06",
+            "13-00342-01",
+            "13-00344-02",
+            "13-00354-03",
+            "13-00370-02",
+            "13-00370-06",
+            "13-00395-04",
+            "13-00440-03",
+            "13-00455-01",
+            "01-00055-02",
+            "01-00057-02",
+            "01-00124-03",
+            "01-00128-03",
+            "01-00182-01",
+            "01-00183-02",
+            "01-00183-03",
+            "01-00184-01",
+            "01-00219-02",
+            "01-00231-03",
+            "01-00596-02",
+            "01-00614-02",
+            "01-00635-03",
+            "01-00663-01",
+            "01-00685-01",
+            "01-00689-02",
+            "01-00688-01",
+            "01-00688-02",
+            "01-00692-03",
+            "01-00709-03",
+            "01-00711-03",
+            "01-00747-02",
+            "01-00754-03",
+            "01-00813-02",
+            "01-00817-02",
+            "01-00821-01",
+            "01-00894-03",
+            "01-00931-01",
+            "01-00953-02",
+            "01-01012-03",
+            "01-01225-01",
+            "01-01270-03",
+            "01-01284-01",
+            "01-01292-02",
+            "01-01304-01",
+            "01-01304-02",
+            "01-01305-02",
+            "01-01446-01",
+            "01-01458-02",
+            "01-01458-03",
+            "01-01460-03",
+            "01-01462-03",
+            "01-01506-01",
+            "01-01527-01",
+            "01-01529-02",
+            "01-01528-02",
+            "01-01533-03",
+            "01-01536-03",
+            "01-01539-03",
+            "01-01549-03",
+            "01-01550-03",
+            "01-01566-03",
+            "01-01576-01",
+            "01-01575-03",
+            "01-01578-02",
+            "01-01600-03",
+            "01-01602-03",
+            "01-01612-02",
+            "01-01616-03",
+            "01-01619-02",
+            "01-01620-03",
+            "01-01633-03",
+            "01-01650-02",
+            "01-01658-03",
+            "01-01660-03",
+            "01-01662-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00077-02",
+              "reference": "और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुवनी मोबाइल वाणी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुवनी मोबाइल वाणी धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00149-02",
+              "reference": "और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुवनी मोबइलवाणी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुवनी मोबइलवाणी धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00241-03",
+              "reference": "के बहुत ऐसी बच्चे और महिलायें आज भी इस तकनीकी युग में भी अशिक्षित है हालाँकि परिवार अपने बच्चों के भविष्य को देखते हुए शहर का रुख कर रहे है",
+              "translated_text": "Community caller report regarding local condition: 'के बहुत ऐसी बच्चे और महिलायें आज भी इस तकनीकी युग में भी अशिक्षित है हालाँकि परिवार अपने बच्चों के भविष्य को देखते हुए शहर का रुख कर रहे है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00241-06",
+              "reference": "बच्चों का भविष्य अंधकारमय हो गया है धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'बच्चों का भविष्य अंधकारमय हो गया है धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-05026-03",
+              "reference": "खुटौना ऐसी चंदू नमस्कार श्रोताओं खुटौना जन प्रतिनिधियों की लापरवाही आज हम अपने अधिकारों के प्रति जीतने हैं",
+              "translated_text": "Community caller report regarding local condition: 'खुटौना ऐसी चंदू नमस्कार श्रोताओं खुटौना जन प्रतिनिधियों की लापरवाही आज हम अपने अधिकारों के प्रति जीतने हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00076-02",
+              "reference": "बिहार राज्य के मधुबनी जिला से मनोज कर्नल ने मोबाइल वाणी के माध्यम ऐसी बताया की सुरक्षा कर्मियों ने तीन बोरियोंसे भरे",
+              "translated_text": "Security personnel have seized three sacks full of contraband goods as reported from Madhubani district.",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Female",
+              "age": NaN,
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00099-02",
+              "reference": "आरोप अखिल भारतीय व्यवसायी परीक्षा दो हजार अठारह सेमेस्टर एक ऐसी लेकर लेकर चार तक की परीक्षा आज ऐसी शुरू हो चुकी हैं यह परीक्षा चौबीस जुलाई ऐसी सोलह अगस्ट तक अगस्त तक मधुबनी जिले के तीनों केन्द्रों आरोप संचालित होगी",
+              "translated_text": "Community caller report regarding local condition: 'आरोप अखिल भारतीय व्यवसायी परीक्षा दो हजार अठारह सेमेस्टर एक ऐसी लेकर लेकर चार तक की परीक्षा आज ऐसी शुरू हो चुकी हैं यह परीक्षा चौबीस जुलाई ऐसी सोलह अगस्ट तक अगस्त तक मधुबनी जिले के तीनों केन्द्रों आरोप संचालित होगी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00138-06",
+              "reference": "नमस्कार दोस्तों मैं रिशी आपके लिए लेकर आया हूँ मधुबनी मोबाइल वाणी पर आये दिन भर की खबरों का सारांश समाचार संध्या में",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार दोस्तों मैं रिशी आपके लिए लेकर आया हूँ मधुबनी मोबाइल वाणी पर आये दिन भर की खबरों का सारांश समाचार संध्या में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00137-01",
+              "reference": "में बिहार राज्य के मधुबनी जिले ऐसी रामानंद जी मधुबनी मोबाइल वाणी के माध्यम ऐसी पी जी जी में नाम",
+              "translated_text": "Community caller report regarding local condition: 'में बिहार राज्य के मधुबनी जिले ऐसी रामानंद जी मधुबनी मोबाइल वाणी के माध्यम ऐसी पी जी जी में नाम'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00137-04",
+              "reference": "के लिए पचीस जुलाई के बाद विश्वविद्यालय की वेबसाइट ऐसी प्रवेश पत्र डाउनलोड कर सकते है बिहार राज्य के मधुबनी जिला ऐसी राम नंदजी",
+              "translated_text": "Community caller report regarding local condition: 'के लिए पचीस जुलाई के बाद विश्वविद्यालय की वेबसाइट ऐसी प्रवेश पत्र डाउनलोड कर सकते है बिहार राज्य के मधुबनी जिला ऐसी राम नंदजी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00143-04",
+              "reference": "नमस्कार दोस्तों दोस्तों में दीपक आपके लिए लेकर आया हूँ मधुबनी मोबाइल वाणी आरोप आये दिन भर की खबरों का सारांश समाचार संध्या में",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार दोस्तों दोस्तों में दीपक आपके लिए लेकर आया हूँ मधुबनी मोबाइल वाणी आरोप आये दिन भर की खबरों का सारांश समाचार संध्या में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00143-05",
+              "reference": "बिहार राज्य के मधुबनी जिला के खजौली प्रखंड ऐसी रामानंद सिंह जी मोबाइल वाणी के माध्यम ऐसी बताते है की मधुबनी जिले के झंझारपुर के बेलारही स्थित बिहार आईडिया प्रशिक्षण केंद्र आरोप",
+              "translated_text": "Community caller report regarding local condition: 'बिहार राज्य के मधुबनी जिला के खजौली प्रखंड ऐसी रामानंद सिंह जी मोबाइल वाणी के माध्यम ऐसी बताते है की मधुबनी जिले के झंझारपुर के बेलारही स्थित बिहार आईडिया प्रशिक्षण केंद्र आरोप'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00143-06",
+              "reference": "आरोप अखिल भारतीय व्यवसाय परीक्षा दो हजार अठारह सेमेस्टर एक ऐसी लेकर चार तक परीक्षा आज ऐसी शुरू हो चुकी है यह परीक्षा चौबीस जुलाई ऐसी सोलह अगस्त तक मधुबनी जिले के तीनों केंद्रों आरोप संचालित होगी",
+              "translated_text": "Community caller report regarding local condition: 'आरोप अखिल भारतीय व्यवसाय परीक्षा दो हजार अठारह सेमेस्टर एक ऐसी लेकर चार तक परीक्षा आज ऐसी शुरू हो चुकी है यह परीक्षा चौबीस जुलाई ऐसी सोलह अगस्त तक मधुबनी जिले के तीनों केंद्रों आरोप संचालित होगी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00145-01",
+              "reference": "इस के लिए प्रशासन ने भी तैयारीयाँ पूरी कर ली हैं बिहार राज्य के मधुबनी जिला के खजौली प्रखंड से रामनंद सिंह जी मोबाइल वाणी के माध्यम से बताते हैं सावन का महीना अगले",
+              "translated_text": "Community caller report regarding local condition: 'इस के लिए प्रशासन ने भी तैयारीयाँ पूरी कर ली हैं बिहार राज्य के मधुबनी जिला के खजौली प्रखंड से रामनंद सिंह जी मोबाइल वाणी के माध्यम से बताते हैं सावन का महीना अगले'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00148-03",
+              "reference": "बिहार राज्य के मधुबनी जिला के मनोज कारण ने मोबाइल वाणी के माध्यम ऐसी बताया की सुरक्षा कर्मियों ने तीन बोरियो ऐसी भरी",
+              "translated_text": "Community caller report regarding local condition: 'बिहार राज्य के मधुबनी जिला के मनोज कारण ने मोबाइल वाणी के माध्यम ऐसी बताया की सुरक्षा कर्मियों ने तीन बोरियो ऐसी भरी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00148-05",
+              "reference": "थाने चौकीदार गस्ती कर रहे थे और अंत में बिहार राज्य के मधुबनी जिला ऐसी रामानंद सिंह ने मोबाइल वाणी के माध्यम ऐसी बताया की मधुबनी जिले के वैसे किसान जो सीओ",
+              "translated_text": "Community caller report regarding local condition: 'थाने चौकीदार गस्ती कर रहे थे और अंत में बिहार राज्य के मधुबनी जिला ऐसी रामानंद सिंह ने मोबाइल वाणी के माध्यम ऐसी बताया की मधुबनी जिले के वैसे किसान जो सीओ'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00162-06",
+              "reference": "मधुबनी जिले में नौ सौ पचास",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी जिले में नौ सौ पचास'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00163-01",
+              "reference": "इस बात को ['लेकर', 'के'] मधुबनी जिले के डी टी सी अजय कुमार सिंह का परब हैं और काफ़ी गुप चुप नज़र आ रहे हैं",
+              "translated_text": "Community caller report regarding local condition: 'इस बात को ['लेकर', 'के'] मधुबनी जिले के डी टी सी अजय कुमार सिंह का परब हैं और काफ़ी गुप चुप नज़र आ रहे हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00270-03",
+              "reference": "बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह स्वास्थ्य विभाग के संकल्प संख्या पैतालीस अंडर ब्रेकेट अट्ठारह दिनांक",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह स्वास्थ्य विभाग के संकल्प संख्या पैतालीस अंडर ब्रेकेट अट्ठारह दिनांक'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00271-03",
+              "reference": "बिहार मोबाइल वाणी के लिए मधुबनी ऐसी आखिर कब तक भौतिक सामाजिक एवं जातिगत आधार",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए मधुबनी ऐसी आखिर कब तक भौतिक सामाजिक एवं जातिगत आधार'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00273-05",
+              "reference": "डी N वर्मा सी जिला प्रभा मधुबनी मोबाइल वाणी ऐसी VEERTHI शिक्षा की व्यवस्था ऐसी लोग अचंभित शिक्षा की अवस्था आज पूर्ण रूप ऐसी तर्मरा गयी हैं लालू राज विद्द्यालयों में तनाव वगैरह क्लेश",
+              "translated_text": "Community caller report regarding local condition: 'डी N वर्मा सी जिला प्रभा मधुबनी मोबाइल वाणी ऐसी VEERTHI शिक्षा की व्यवस्था ऐसी लोग अचंभित शिक्षा की अवस्था आज पूर्ण रूप ऐसी तर्मरा गयी हैं लालू राज विद्द्यालयों में तनाव वगैरह क्लेश'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00287-01",
+              "reference": "मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी डॉक्टर विनय सराव अधिकारी स्वस्थ विभाग बिहार पटना",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी डॉक्टर विनय सराव अधिकारी स्वस्थ विभाग बिहार पटना'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00289-06",
+              "reference": "मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00295-03",
+              "reference": "मधुबनी मोबाइल वाणी प्रखंड खुटौना से चंदू नमस्कार खुटौना छात्राओं में निराशा ज्ञात हो की राज्य में माध्यमिक स्तर पे गृह विज्ञान",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी प्रखंड खुटौना से चंदू नमस्कार खुटौना छात्राओं में निराशा ज्ञात हो की राज्य में माध्यमिक स्तर पे गृह विज्ञान'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00299-01",
+              "reference": "मधुबनी मोबाइल वाणी प्रखण्ड खुटौना से चंदु नमस्कार खुटौना सरकार की पहल ज़रूरी घर से निकलते ही ट्रैफिक जाम को देख व्यक्ति",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी प्रखण्ड खुटौना से चंदु नमस्कार खुटौना सरकार की पहल ज़रूरी घर से निकलते ही ट्रैफिक जाम को देख व्यक्ति'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00313-04",
+              "reference": "मधुबनी मोबाइल वाणी के लिए खजुरी मधोनी ऐसी नामा सूची मधुबनी जिले ऐसी खजुरी प्रखंड नाम के कई उपविग्ननों का जन विकरण के लिए निर्माण का प्रारंभ किया गया",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के लिए खजुरी मधोनी ऐसी नामा सूची मधुबनी जिले ऐसी खजुरी प्रखंड नाम के कई उपविग्ननों का जन विकरण के लिए निर्माण का प्रारंभ किया गया'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00313-06",
+              "reference": "मुख्या जनता निवास अविलम्ब इस समस्या को ध्यान दे मधुबनी मोबाइल वाणी के लिए खजुरी मधोनी",
+              "translated_text": "Community caller report regarding local condition: 'मुख्या जनता निवास अविलम्ब इस समस्या को ध्यान दे मधुबनी मोबाइल वाणी के लिए खजुरी मधोनी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00342-01",
+              "reference": "मधुबनी मोबाइल वाणी ऐसी मधुबनी जिला के के लिए महाअभियान शुरू कर दिया है",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी ऐसी मधुबनी जिला के के लिए महाअभियान शुरू कर दिया है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00344-02",
+              "reference": "दिनांक सताईस एवं अट्ठाईस तारीख़ को कृषि यांत्रिकीकरण किसान मेला का आयोजन किया गया है धन्यवाद टी एन ब्रह्मऋषि मधुबनी मोबाइल वाणी",
+              "translated_text": "Community caller report regarding local condition: 'दिनांक सताईस एवं अट्ठाईस तारीख़ को कृषि यांत्रिकीकरण किसान मेला का आयोजन किया गया है धन्यवाद टी एन ब्रह्मऋषि मधुबनी मोबाइल वाणी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00354-03",
+              "reference": "मधुबनी मोबाइल वाणी प्रखंड",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी प्रखंड'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00370-02",
+              "reference": "प्रभुदे नागरिकों प्रतापी अधिकारी और मधुबनी मोबाइल वाणी के सभी श्रोताओं अभी अब ऊपर ही घटनाओं को भंग कर दीपावली गोवर्धन पूजा भैया दूज जैसे महापर्व",
+              "translated_text": "Community caller report regarding local condition: 'प्रभुदे नागरिकों प्रतापी अधिकारी और मधुबनी मोबाइल वाणी के सभी श्रोताओं अभी अब ऊपर ही घटनाओं को भंग कर दीपावली गोवर्धन पूजा भैया दूज जैसे महापर्व'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00370-06",
+              "reference": "मधुबनी मोबाइल वाणी के श्रोताओं रिपोर्टरों आम जनता और बच्चों को दो हजार सोलह इसवी की माह शुभ दीपावली आरोप",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के श्रोताओं रिपोर्टरों आम जनता और बच्चों को दो हजार सोलह इसवी की माह शुभ दीपावली आरोप'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00395-04",
+              "reference": "मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी राम शेरसिंह भारत में",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी राम शेरसिंह भारत में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00440-03",
+              "reference": "हेलो हम अखिलेश कुमार सिंह मधुबनी मोबाइल वाणी ऐसी क्षेत्र ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'हेलो हम अखिलेश कुमार सिंह मधुबनी मोबाइल वाणी ऐसी क्षेत्र ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00455-01",
+              "reference": "मधुबनी मोबाइलवाणी के लिए मधुबनी ऐसी पंचायत सरकार भवन का निर्माण सरकार के स्थित पंचायत सरकार",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइलवाणी के लिए मधुबनी ऐसी पंचायत सरकार भवन का निर्माण सरकार के स्थित पंचायत सरकार'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00055-02",
+              "reference": "मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी मई रामाशीष सिंह बिहार सरकार इक्कीस जनवरी दो हजार सत्रह को मानव श्रृंखला अभियान",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबाइल वाणी के लिए खजौली मधुबनी ऐसी मई रामाशीष सिंह बिहार सरकार इक्कीस जनवरी दो हजार सत्रह को मानव श्रृंखला अभियान'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00057-02",
+              "reference": "अधिकारीयों के विरूद्ध कार्यवाही करें जनता जागरूक हैं उन्हें जागरूक करने की ज़रुरत नहीं हैं मधुबनी मोबइल वाणी के लिए खजौली मधुबनी से रामाशीष",
+              "translated_text": "Community caller report regarding local condition: 'अधिकारीयों के विरूद्ध कार्यवाही करें जनता जागरूक हैं उन्हें जागरूक करने की ज़रुरत नहीं हैं मधुबनी मोबइल वाणी के लिए खजौली मधुबनी से रामाशीष'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00124-03",
+              "reference": "मई धर्मेन्द्र कुमार श्रीवास्तव मधुबनी जिला के खुरमा माधोपुर पंचायत ऐसी लोकतंत्र में पत्रकारों की हत्या आज लोकतंत्र में पत्रकारों की हत्या",
+              "translated_text": "Community caller report regarding local condition: 'मई धर्मेन्द्र कुमार श्रीवास्तव मधुबनी जिला के खुरमा माधोपुर पंचायत ऐसी लोकतंत्र में पत्रकारों की हत्या आज लोकतंत्र में पत्रकारों की हत्या'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00128-03",
+              "reference": "रामानन्द सिंह मोबाइल वाणी मधुबनी मधुबनी जिले के फुलपरास अनुमंडल क्षेत्र के",
+              "translated_text": "Community caller report regarding local condition: 'रामानन्द सिंह मोबाइल वाणी मधुबनी मधुबनी जिले के फुलपरास अनुमंडल क्षेत्र के'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00182-01",
+              "reference": "महत्वपूर्ण' हिसाव 'मधुबनी जिला का श्रंखला बनेगा सभी जनप्रतिनिधि हज़ार ऐसी हज़ार संख्या में आकर इस आयोजन मई",
+              "translated_text": "Community caller report regarding local condition: 'महत्वपूर्ण' हिसाव 'मधुबनी जिला का श्रंखला बनेगा सभी जनप्रतिनिधि हज़ार ऐसी हज़ार संख्या में आकर इस आयोजन मई'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00183-02",
+              "reference": "रामानंद सिंह मोबाइल वाणी मधुबनी",
+              "translated_text": "Community caller report regarding local condition: 'रामानंद सिंह मोबाइल वाणी मधुबनी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00183-03",
+              "reference": "बिहार सरकार द्वारा नशा मुक्ति के पक्ष में आहूत राज्यव्यापी मानव श्रंखला अभियान को मधुबनी जिले में सफल बनाने के लाई लोगो में काफी उत्सुकता देखी जा रही है",
+              "translated_text": "Community caller report regarding local condition: 'बिहार सरकार द्वारा नशा मुक्ति के पक्ष में आहूत राज्यव्यापी मानव श्रंखला अभियान को मधुबनी जिले में सफल बनाने के लाई लोगो में काफी उत्सुकता देखी जा रही है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00184-01",
+              "reference": "सभी चैम्बर ऑफ़ कॉमर्स मधुबनी जिला के एवम अन्य सभी व्यवसाय संगठनो ऐसी इस सम्बन्ध में संपर्क स्थापित",
+              "translated_text": "Community caller report regarding local condition: 'सभी चैम्बर ऑफ़ कॉमर्स मधुबनी जिला के एवम अन्य सभी व्यवसाय संगठनो ऐसी इस सम्बन्ध में संपर्क स्थापित'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00219-02",
+              "reference": "मधुबनी मोबइलवाणी प्रखंड ऐसी चंदू नमस्कार खुटौना आईए मिलते हैं प्रखंड के भाजपा के नौ जवान नेता ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी मोबइलवाणी प्रखंड ऐसी चंदू नमस्कार खुटौना आईए मिलते हैं प्रखंड के भाजपा के नौ जवान नेता ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00231-03",
+              "reference": "मै राजनगर से सतिश लाल दास मधुबनी मोबाइल वाणी के लिए इनका राय सही है इसलिए की खादी ग्राम उद्द्योग",
+              "translated_text": "Community caller report regarding local condition: 'मै राजनगर से सतिश लाल दास मधुबनी मोबाइल वाणी के लिए इनका राय सही है इसलिए की खादी ग्राम उद्द्योग'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00596-02",
+              "reference": "बिहार मोबाइल वाणी के सेट ऐसी संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड ऐसी दोस्तों बेनीपट्टी मधुबनी जिला के अंतर्गत बेनीपट्टी",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के सेट ऐसी संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड ऐसी दोस्तों बेनीपट्टी मधुबनी जिला के अंतर्गत बेनीपट्टी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00614-02",
+              "reference": "बिहार मोबाइल वाणी के साथ मई पंकज कुमार मदन मधुबनी जिला खुटौना प्रखंड श्रोता गाँव के आस्था के क्षेत्र में खूब हरे भरे पर हुआ करते थे",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के साथ मई पंकज कुमार मदन मधुबनी जिला खुटौना प्रखंड श्रोता गाँव के आस्था के क्षेत्र में खूब हरे भरे पर हुआ करते थे'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00635-03",
+              "reference": "बिहार मोबाइल वाणी प्रखंड जिला मधुबनी ऐसी चंदेश्वर रामचन्द सतना प्रखंड वार्ड पंचायत नारी की वार्ड सदस्य भी है",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी प्रखंड जिला मधुबनी ऐसी चंदेश्वर रामचन्द सतना प्रखंड वार्ड पंचायत नारी की वार्ड सदस्य भी है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00663-01",
+              "reference": "बिहार मोबाइलवाणी कभी भूलमत जाना संतोष मंडल मधुबनी जिला धनबाद",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइलवाणी कभी भूलमत जाना संतोष मंडल मधुबनी जिला धनबाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00685-01",
+              "reference": "बिहार मोबाइल वाणी के साथ मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड श्रोता मैं एक कविता बोल रहा हूँ नींद में सोये फ़ोन कोल जगाया हमको",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के साथ मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड श्रोता मैं एक कविता बोल रहा हूँ नींद में सोये फ़ोन कोल जगाया हमको'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00689-02",
+              "reference": "बिहार मोबाइल वाणी के साथ मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के साथ मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00688-01",
+              "reference": "धन्यवाद मैं संतोष कुमार मंडल मधुबनी जिला कोडरमा प्रखंड ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'धन्यवाद मैं संतोष कुमार मंडल मधुबनी जिला कोडरमा प्रखंड ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Age_unknown",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00688-02",
+              "reference": "बिहार मोबाइल वाणी के साथ मंडल मधुबनी जिला श्रोताओं ये बता दो की घटना हमारे समाज के लिए बहुत ढाक के तीन पात है",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के साथ मंडल मधुबनी जिला श्रोताओं ये बता दो की घटना हमारे समाज के लिए बहुत ढाक के तीन पात है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Age_unknown",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00692-03",
+              "reference": "और हीरा वर्ग खास कर इस पर ज्यादा जोर दे तो हमारे समाज का कल्याण होने में कभी भी तकलीफ नहीं होगा धन्यवाद मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड",
+              "translated_text": "Community caller report regarding local condition: 'और हीरा वर्ग खास कर इस पर ज्यादा जोर दे तो हमारे समाज का कल्याण होने में कभी भी तकलीफ नहीं होगा धन्यवाद मैं संतोष कुमार मंडल मधुबनी जिला खुटौना प्रखंड'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00709-03",
+              "reference": "गमहर सिंह मोबाइल वाणी के लिए मधुबनी मोबाइल वाणी के एक सिरे से आगे बढ़ाने के लिए कर्तव्यनिष्ठ होना जरुरी हैं",
+              "translated_text": "Community caller report regarding local condition: 'गमहर सिंह मोबाइल वाणी के लिए मधुबनी मोबाइल वाणी के एक सिरे से आगे बढ़ाने के लिए कर्तव्यनिष्ठ होना जरुरी हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00711-03",
+              "reference": "के हम अब अपने हातों मैं हैं और सारी दुनिया का समाचार निश्चित रूप ऐसी आगे बढ़ने की जरुरत हैं कर्तव्य करने की जरुरत हैं मधुबनी ऐसी मोबाइल वाणी",
+              "translated_text": "Community caller report regarding local condition: 'के हम अब अपने हातों मैं हैं और सारी दुनिया का समाचार निश्चित रूप ऐसी आगे बढ़ने की जरुरत हैं कर्तव्य करने की जरुरत हैं मधुबनी ऐसी मोबाइल वाणी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00747-02",
+              "reference": "तिल्हल मोबाइल बनी के साथ मई संतोष कुमार मंडल मधुबनी जिला खुटौना सिरोधा मंदिर माजिद के लिए लड़ने वाले मंदिर माजिद के लिए लड़ने वाले देश की दंगा",
+              "translated_text": "Community caller report regarding local condition: 'तिल्हल मोबाइल बनी के साथ मई संतोष कुमार मंडल मधुबनी जिला खुटौना सिरोधा मंदिर माजिद के लिए लड़ने वाले मंदिर माजिद के लिए लड़ने वाले देश की दंगा'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00754-03",
+              "reference": "बिहार मोबाइल आजाद बल्लव प्रखंड खुटौना जिला मधुबनी संजय के राम थैंक्यू",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल आजाद बल्लव प्रखंड खुटौना जिला मधुबनी संजय के राम थैंक्यू'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00813-02",
+              "reference": "संतोष कुमार मंडल मधुबनी जिला हम बार यही बात आते हैं आखिर महिलाओं को अपना",
+              "translated_text": "Community caller report regarding local condition: 'संतोष कुमार मंडल मधुबनी जिला हम बार यही बात आते हैं आखिर महिलाओं को अपना'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00817-02",
+              "reference": "और नई करता उपयोग डी टी ओ के पास के दलालों द्वारा मधुबनी प्रसाद बाजार मई साझा मई घोलकर दलाल लाइसेंस बनाते है",
+              "translated_text": "Community caller report regarding local condition: 'और नई करता उपयोग डी टी ओ के पास के दलालों द्वारा मधुबनी प्रसाद बाजार मई साझा मई घोलकर दलाल लाइसेंस बनाते है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00821-01",
+              "reference": "गलत सामानों की बिक्री एवम कम वजन देने की प्रक्रिया चलती ही रहेगी बिहार मोबाइल वाणी के लिए त्रिवेंद्र मचे मधुबनी ऐसी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'गलत सामानों की बिक्री एवम कम वजन देने की प्रक्रिया चलती ही रहेगी बिहार मोबाइल वाणी के लिए त्रिवेंद्र मचे मधुबनी ऐसी धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00894-03",
+              "reference": "बिहार मोबइलवाणी के साथ में संतोष कुमार मंडल मधुबनी जिला प्रखंड श्रोता में खुशी कर सकता हूँ एपिसोड में आज बाल विवाह",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबइलवाणी के साथ में संतोष कुमार मंडल मधुबनी जिला प्रखंड श्रोता में खुशी कर सकता हूँ एपिसोड में आज बाल विवाह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00931-01",
+              "reference": "बिहार मोबाइल वाणी के लिए खजौली मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए खजौली मधुबनी ऐसी रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-00953-02",
+              "reference": "बिहार मोबइलवाणी जिला मधुबनी खुटौना प्रखंड के अठारह पंचायत में शिक्षा समिति का",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबइलवाणी जिला मधुबनी खुटौना प्रखंड के अठारह पंचायत में शिक्षा समिति का'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-01012-03",
+              "reference": "के रूप में नारी शक्ति ही आगे आती रही है बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'के रूप में नारी शक्ति ही आगे आती रही है बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01225-01",
+              "reference": "बिहार मोबाइल वाणी आजाद क्लब प्रसंग खतोना जिले मधुबनी चंदेश्वर रामचन्द्र आर सी गारी के पास अब अधिकारी फाइलें गायब होने की बात बता कर आपको सूचना देने में टालमटोल नहीं कर सकेंगे",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी आजाद क्लब प्रसंग खतोना जिले मधुबनी चंदेश्वर रामचन्द्र आर सी गारी के पास अब अधिकारी फाइलें गायब होने की बात बता कर आपको सूचना देने में टालमटोल नहीं कर सकेंगे'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01270-03",
+              "reference": "मधुबनी के लखनवी पठान के कस्तूरबा विद्यालय में रात्रि पहरी में हेरा फेरी की गई सूचना प्राप्त हुई है की देवी की प्राप्तांक बीस सौ छियासठ अंक दो हज़ार नौ में",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी के लखनवी पठान के कस्तूरबा विद्यालय में रात्रि पहरी में हेरा फेरी की गई सूचना प्राप्त हुई है की देवी की प्राप्तांक बीस सौ छियासठ अंक दो हज़ार नौ में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01284-01",
+              "reference": "बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01292-02",
+              "reference": "इस पर गम्भीरता से सोचने की जरुरत है बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'इस पर गम्भीरता से सोचने की जरुरत है बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01304-01",
+              "reference": "की दवाई का छिड़काव पुरे मधुबनी जिला में मैं बिहार मोबाइल वाणी के लिए",
+              "translated_text": "Community caller report regarding local condition: 'की दवाई का छिड़काव पुरे मधुबनी जिला में मैं बिहार मोबाइल वाणी के लिए'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01304-02",
+              "reference": "मैं बिहार मोबाइलवाणी के लिए मधुबनी से मधुबनी के डीडीसी ने निर्देश दिए थे याद रहे कि इससे पहले भी बिहार मोबाइल वाणी पर भी",
+              "translated_text": "Community caller report regarding local condition: 'मैं बिहार मोबाइलवाणी के लिए मधुबनी से मधुबनी के डीडीसी ने निर्देश दिए थे याद रहे कि इससे पहले भी बिहार मोबाइल वाणी पर भी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01305-02",
+              "reference": "बिहार मोबाइलवाणी के लिए मधुबनी ऐसी खजुरी आरोप बहुत सरे बैंक के शाखाओं हाँ",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइलवाणी के लिए मधुबनी ऐसी खजुरी आरोप बहुत सरे बैंक के शाखाओं हाँ'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01446-01",
+              "reference": "बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह मधुबनी जिला के खजौली प्रखंड के ग्राम विकास पदाधिकारी बीडीओ बिना सुचना दिए कार्यालय से अनुमंडल पदाधिकारी",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए खजौली मधुबनी से रामाशीष सिंह मधुबनी जिला के खजौली प्रखंड के ग्राम विकास पदाधिकारी बीडीओ बिना सुचना दिए कार्यालय से अनुमंडल पदाधिकारी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-01458-02",
+              "reference": "मधुबनी ऐसी रामकृष्ण सिंह",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी ऐसी रामकृष्ण सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01458-03",
+              "reference": "मै रामकृष्ण सिंह मधुबनी ऐसी बिहार मोबाइलवाणी के लिए",
+              "translated_text": "Community caller report regarding local condition: 'मै रामकृष्ण सिंह मधुबनी ऐसी बिहार मोबाइलवाणी के लिए'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01460-03",
+              "reference": "बिहार मोबाइलवाणी के लिए मै रामकृष्ण सिंह मधुबनी ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइलवाणी के लिए मै रामकृष्ण सिंह मधुबनी ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01462-03",
+              "reference": "जाना चाहिए मै रामकृष्ण सिंह मधुबनी ऐसी धनबाद",
+              "translated_text": "Community caller report regarding local condition: 'जाना चाहिए मै रामकृष्ण सिंह मधुबनी ऐसी धनबाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01506-01",
+              "reference": "मै रामकृष्ण सिंह मधुबनी ऐसी इधर सैकरो जमीन हाँ और लोग साइड में अपना जमीन हाँ और लेकिन और झोपड़ी आरोप रहता हाँ बिहार मोबाइलवाणी के लाई",
+              "translated_text": "Community caller report regarding local condition: 'मै रामकृष्ण सिंह मधुबनी ऐसी इधर सैकरो जमीन हाँ और लोग साइड में अपना जमीन हाँ और लेकिन और झोपड़ी आरोप रहता हाँ बिहार मोबाइलवाणी के लाई'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01527-01",
+              "reference": "बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह अभी मैं मधुबनी के ग्राम खाजौरी प्रखंड",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह अभी मैं मधुबनी के ग्राम खाजौरी प्रखंड'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01529-02",
+              "reference": "प्रथम इच्छा कठिनाई की और जा रहा है मेरा शिक्षा मधुबनी में ध्यान जाना चाहिए बिहार मौलधवानी के लिए शांतिकलम धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'प्रथम इच्छा कठिनाई की और जा रहा है मेरा शिक्षा मधुबनी में ध्यान जाना चाहिए बिहार मौलधवानी के लिए शांतिकलम धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-01528-02",
+              "reference": "बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह आज़ादी के बाद देश की दशा और दिशा सुधारने के लाई शिक्षा के स्टार को उतने के लाई कई राष्ट्रीय आयोगों का गठन किया गया",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह आज़ादी के बाद देश की दशा और दिशा सुधारने के लाई शिक्षा के स्टार को उतने के लाई कई राष्ट्रीय आयोगों का गठन किया गया'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01533-03",
+              "reference": "प्रावधान का उलंघन करने वाले दोषी पदाधिकारियों कर्मचारियों के विरुद्ध आवश्यक कार्यवाही की जाएगी बिहार मोबाइल वाणी के लाई मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'प्रावधान का उलंघन करने वाले दोषी पदाधिकारियों कर्मचारियों के विरुद्ध आवश्यक कार्यवाही की जाएगी बिहार मोबाइल वाणी के लाई मधुबनी ऐसी रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01536-03",
+              "reference": "शांति क्लब मधुबनी ऐसी रामाशीष सिंह",
+              "translated_text": "Community caller report regarding local condition: 'शांति क्लब मधुबनी ऐसी रामाशीष सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01539-03",
+              "reference": "देश की विकास योजनाओ का निर्माण हो क्रांति क्लब मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'देश की विकास योजनाओ का निर्माण हो क्रांति क्लब मधुबनी ऐसी रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01549-03",
+              "reference": "शांति क्लब मधुबनी ऐसी रामवीर सिंह",
+              "translated_text": "Community caller report regarding local condition: 'शांति क्लब मधुबनी ऐसी रामवीर सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-01550-03",
+              "reference": "शांति क्लब मधुबनी ऐसी रामनाथ किशोर भ्रूण हत्या जघन्य पाप और प्रति बाधित है फिर भी भ्रूण हत्या हो रही है एसे रोकने में आने वाली चिंता और आशा का बड़ी भूमिका हो सकती है इनलोगों के पास",
+              "translated_text": "Community caller report regarding local condition: 'शांति क्लब मधुबनी ऐसी रामनाथ किशोर भ्रूण हत्या जघन्य पाप और प्रति बाधित है फिर भी भ्रूण हत्या हो रही है एसे रोकने में आने वाली चिंता और आशा का बड़ी भूमिका हो सकती है इनलोगों के पास'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01566-03",
+              "reference": "शांति क्लब ऐसी बिहार मोबाइलवाणी के लाई मधुबनी ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'शांति क्लब ऐसी बिहार मोबाइलवाणी के लाई मधुबनी ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01576-01",
+              "reference": "मधुबनी जिले के कजरी प्रखण्ड का कजरी आज ऐसी ढेर महिना पहले गया हैं माफिया लोग ऐसी पीड़ित हो गया हैं वो आना चाहता हैं उन्हें आने नहीं दिया जाता",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी जिले के कजरी प्रखण्ड का कजरी आज ऐसी ढेर महिना पहले गया हैं माफिया लोग ऐसी पीड़ित हो गया हैं वो आना चाहता हैं उन्हें आने नहीं दिया जाता'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01575-03",
+              "reference": "बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01578-02",
+              "reference": "सरकार को भारतीय संविधान की धारा तीन सौ बारह एवम तेरह में और कठोर दण्ड का प्रावधान पर इसे सख्ती से लागू करना चाहिए बिहार मोबाइल वाणी के लिए शांति क्लब मधुबनी से रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'सरकार को भारतीय संविधान की धारा तीन सौ बारह एवम तेरह में और कठोर दण्ड का प्रावधान पर इसे सख्ती से लागू करना चाहिए बिहार मोबाइल वाणी के लिए शांति क्लब मधुबनी से रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01600-03",
+              "reference": "शांतिकलम मधुबनी ऐसी राम शेरसिंह बच्चों को पूरा काम करने में लगा देखा जा सकता हैं",
+              "translated_text": "Community caller report regarding local condition: 'शांतिकलम मधुबनी ऐसी राम शेरसिंह बच्चों को पूरा काम करने में लगा देखा जा सकता हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01602-03",
+              "reference": "कूड़ा करकट में उन्हें मुक्त मुक्ति दिलाकर उनका भविष्य सुन्दर करने के लिए सरकार को गंभीरता ऐसी शांतिकलम मधुबनी ऐसी राम शेरसिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'कूड़ा करकट में उन्हें मुक्त मुक्ति दिलाकर उनका भविष्य सुन्दर करने के लिए सरकार को गंभीरता ऐसी शांतिकलम मधुबनी ऐसी राम शेरसिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01612-02",
+              "reference": "बिहार मोबाइल वाणी के लिए कांति क्लब मधुबनी ऐसी रामाशीष सिंह",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए कांति क्लब मधुबनी ऐसी रामाशीष सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01616-03",
+              "reference": "बिहार ऐसी मोबाइलवाणी जिले ऐसी शांति क्लब मधुबनी ऐसी रामासेठ सिंह भगवान का रूप हैं माँ विधाता ने बहुत सोच समझ कर संसार बनाया हैं उन्होंने बहुत सारी रचनाये बनायी हैं",
+              "translated_text": "Community caller report regarding local condition: 'बिहार ऐसी मोबाइलवाणी जिले ऐसी शांति क्लब मधुबनी ऐसी रामासेठ सिंह भगवान का रूप हैं माँ विधाता ने बहुत सोच समझ कर संसार बनाया हैं उन्होंने बहुत सारी रचनाये बनायी हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01619-02",
+              "reference": "बिहार मोबाइल वाणी के लिए शांतिकलम मधुबनी ऐसी रामाशीष सिंह",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी के लिए शांतिकलम मधुबनी ऐसी रामाशीष सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01620-03",
+              "reference": "स्थानीय स्वराज को मधुत करने की सपना ऐसी अधिक जुड़ा हो सरार के सौतेलापन को एकदम दूर करना चाहिए बिहार मोबाइलवाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह धनबाद",
+              "translated_text": "Community caller report regarding local condition: 'स्थानीय स्वराज को मधुत करने की सपना ऐसी अधिक जुड़ा हो सरार के सौतेलापन को एकदम दूर करना चाहिए बिहार मोबाइलवाणी के लाई शांति क्लब मधुबनी ऐसी रामाशीष सिंह धनबाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01633-03",
+              "reference": "पब्लिक स्कूल व्यवसाय का अड्डा बना हुआ है बिहार मोबाइल वाणी के लिए शांतिकलम मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'पब्लिक स्कूल व्यवसाय का अड्डा बना हुआ है बिहार मोबाइल वाणी के लिए शांतिकलम मधुबनी ऐसी रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01650-02",
+              "reference": "बिहार मोबाइल वाणी ऐसी मधुबनी ऐसी रामाशीष सिंह शिक्षा के विषय में अधिक जानकारी का मतलब होता है सीखना",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल वाणी ऐसी मधुबनी ऐसी रामाशीष सिंह शिक्षा के विषय में अधिक जानकारी का मतलब होता है सीखना'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01658-03",
+              "reference": "बिहार मोबाइलवाणी के लाई शांति क्लब मधुबनी खेल रामाशीष सिंह इक्कीसवीं सदी का भारत क्यूंकि तो विकास और बहुमत के बीच में शिखर छु रहा है परन्तु विकास और बदलाव के इस दौर में",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइलवाणी के लाई शांति क्लब मधुबनी खेल रामाशीष सिंह इक्कीसवीं सदी का भारत क्यूंकि तो विकास और बहुमत के बीच में शिखर छु रहा है परन्तु विकास और बदलाव के इस दौर में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01660-03",
+              "reference": "यार मोबाइल वाणी के लिए जानपुर जिला मधुबनी ऐसी रामासेठ सिंह सरकार जब भी कोई कानून बनाती हैं या कोई भी नज़र लेती हैं तो जामिद तारीख को किया जाता हैं",
+              "translated_text": "Community caller report regarding local condition: 'यार मोबाइल वाणी के लिए जानपुर जिला मधुबनी ऐसी रामासेठ सिंह सरकार जब भी कोई कानून बनाती हैं या कोई भी नज़र लेती हैं तो जामिद तारीख को किया जाता हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-01662-02",
+              "reference": "इंसान धीर गंभीर बने बिहार मोबाइल वाणी के लिए शांति क्लब मधुबनी से रामाशीष सिंह धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'इंसान धीर गंभीर बने बिहार मोबाइल वाणी के लिए शांति क्लब मधुबनी से रामाशीष सिंह धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            }
+          ]
+        },
+        "Modality: listener_feedback_prompt": {
+          "evidence_group_id": "EG_0002",
+          "location": "Madhubani, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: listener_feedback_prompt",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "13-00140-03",
+            "13-00145-04"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00140-03",
+              "reference": "दबाकर और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुबनी मोबाइल वाणी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'दबाकर और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुबनी मोबाइल वाणी धन्यवाद'",
+              "content_type": "listener_feedback_prompt",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00145-04",
+              "reference": "#incomplete तो दोस्तों कैसा लगा आपको समाचार संध्या का ये अंश हमे जरूर बताए नंबर तीन दबाकर और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुबनी मोबाइल वाणी",
+              "translated_text": "Community caller report regarding local condition: '#incomplete तो दोस्तों कैसा लगा आपको समाचार संध्या का ये अंश हमे जरूर बताए नंबर तीन दबाकर और ऐसे ही बड़ी खबरों के लिए सुनते रहे मधुबनी मोबाइल वाणी'",
+              "content_type": "listener_feedback_prompt",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            }
+          ]
+        },
+        "Modality: cultural_and_creative": {
+          "evidence_group_id": "EG_0003",
+          "location": "Madhubani, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: cultural_and_creative",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-00837-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-00837-01",
+              "reference": "बिहार मोबाइल के साथ मई संतोष कुमार मंडल मधुबनी जिला खतोना प्रखंड ऐसी श्रोता मानी अस्तित्व को स्वीकार करो साथ मई ये कविता आप लोगो के सामने",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबाइल के साथ मई संतोष कुमार मंडल मधुबनी जिला खतोना प्रखंड ऐसी श्रोता मानी अस्तित्व को स्वीकार करो साथ मई ये कविता आप लोगो के सामने'",
+              "content_type": "cultural_and_creative",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Education & Learning": {
+      "School Staffing & Basic Infrastructure": {
+        "Teacher Shortage & Teacher Absenteeism": {
+          "evidence_group_id": "EG_0004",
+          "location": "Madhubani, Bihar",
+          "domain": "Education & Learning",
+          "theme": "School Staffing & Basic Infrastructure",
+          "issue": "Teacher Shortage & Teacher Absenteeism",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00241-04"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00241-04",
+              "reference": "शिक्षा मित्र के रूप में जो अप्रशिक्षित शिक्षकों की बहाली हुई थी वही आज भी शिक्षक बने हुए है जो बच्चों को अच्छी शिक्षा देने में असमर्थ है",
+              "translated_text": "Untrained para-teachers appointed years ago as Shiksha Mitras remain in schools, unable to deliver quality education to children.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.87,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        },
+        "School Building Safety, Classrooms & Basic Amenities": {
+          "evidence_group_id": "EG_0005",
+          "location": "Madhubani, Bihar",
+          "domain": "Education & Learning",
+          "theme": "School Staffing & Basic Infrastructure",
+          "issue": "School Building Safety, Classrooms & Basic Amenities",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00241-05"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00241-05",
+              "reference": "साथ ही स्कूलों के जर्जर भवनों ऐसी हमेशा खतरा बना रहता है पठन पठन सामग्री का नहीं होना तथा मध्य भोजन के देख रेख में अनियमित्ता बरतने ऐसी",
+              "translated_text": "Dilapidated school buildings pose a constant danger; lack of learning materials and irregularities in the Mid-Day Meal scheme continue.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.86,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Health & Nutrition": {
+      "Primary Healthcare Access & Facilities": {
+        "Doctor Absenteeism & Essential Drug Shortages": {
+          "evidence_group_id": "EG_0006",
+          "location": "Madhubani, Bihar",
+          "domain": "Health & Nutrition",
+          "theme": "Primary Healthcare Access & Facilities",
+          "issue": "Doctor Absenteeism & Essential Drug Shortages",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01567-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01567-01",
+              "reference": "मधुबनी के अधिकतर प्रखंडों में नर्सो द्वारा अस्पताल निर्धित अपने आवासों में अवैध गर्भपात करवाया जा रहा है",
+              "translated_text": "In several blocks of Madhubani, nurses are allegedly performing illegal medical termination of pregnancy at their residential quarters.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.88,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Housing & Habitat": {
+      "Rural Housing Assistance (PMAY-G)": {
+        "Housing Scheme Installment Delays & Exclusion": {
+          "evidence_group_id": "EG_0007",
+          "location": "Madhubani, Bihar",
+          "domain": "Housing & Habitat",
+          "theme": "Rural Housing Assistance (PMAY-G)",
+          "issue": "Housing Scheme Installment Delays & Exclusion",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01567-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01567-01",
+              "reference": "मधुबनी के अधिकतर प्रखंडों में नर्सो द्वारा अस्पताल निर्धित अपने आवासों में अवैध गर्भपात करवाया जा रहा है",
+              "translated_text": "In several blocks of Madhubani, nurses are allegedly performing illegal medical termination of pregnancy at their residential quarters.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.92,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Civic Action & Community Mobilization": {
+      "Women Empowerment & Self-Help Groups": {
+        "SHG Micro-Credit & Livelihood Mobilization (Jeevika/SRLM)": {
+          "evidence_group_id": "EG_0008",
+          "location": "Madhubani, Bihar",
+          "domain": "Civic Action & Community Mobilization",
+          "theme": "Women Empowerment & Self-Help Groups",
+          "issue": "SHG Micro-Credit & Livelihood Mobilization (Jeevika/SRLM)",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01569-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01569-01",
+              "reference": "इसके दो महत्वपूर्ण कारण है रोजगार रहित और भूमि ऐसी विस्थापन नए रोजगार कम पैदा हो रहे है और पुराने रोजगार और आजीविका को पारंपरिक आजीविका के परम पारंपरिक स्रोत नाशता हो रहे है सरकार को अविलम्ब इस और भान देना चाहिए क्रांति क्लब मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "There are two major crises: lack of local jobs and land displacement, destroying traditional rural livelihoods.",
+              "content_type": "community_action",
+              "failure_mode": [
+                "shortage"
+              ],
+              "confidence": 0.9,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Employment, Livelihoods & Migration": {
+      "Local Non-Farm Livelihoods & Wages": {
+        "Deficit of Local Non-Farm Livelihood Opportunities": {
+          "evidence_group_id": "EG_0009",
+          "location": "Madhubani, Bihar",
+          "domain": "Employment, Livelihoods & Migration",
+          "theme": "Local Non-Farm Livelihoods & Wages",
+          "issue": "Deficit of Local Non-Farm Livelihood Opportunities",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01569-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01569-01",
+              "reference": "इसके दो महत्वपूर्ण कारण है रोजगार रहित और भूमि ऐसी विस्थापन नए रोजगार कम पैदा हो रहे है और पुराने रोजगार और आजीविका को पारंपरिक आजीविका के परम पारंपरिक स्रोत नाशता हो रहे है सरकार को अविलम्ब इस और भान देना चाहिए क्रांति क्लब मधुबनी ऐसी रामाशीष सिंह धन्यवाद",
+              "translated_text": "There are two major crises: lack of local jobs and land displacement, destroying traditional rural livelihoods.",
+              "content_type": "community_action",
+              "failure_mode": [
+                "shortage"
+              ],
+              "confidence": 0.86,
+              "location_source": "transcript",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Agriculture & Allied Livelihoods": {
+      "Agricultural Inputs & Crop Health": {
+        "Fertilizer & Seed Supply Shortages": {
+          "evidence_group_id": "EG_0010",
+          "location": "Madhubani, Bihar",
+          "domain": "Agriculture & Allied Livelihoods",
+          "theme": "Agricultural Inputs & Crop Health",
+          "issue": "Fertilizer & Seed Supply Shortages",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01626-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01626-03",
+              "reference": "मधुबनी राममंदिर खजौली प्रखंड में खाद्य अवाम यूरिया पर आधारित है",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी राममंदिर खजौली प्रखंड में खाद्य अवाम यूरिया पर आधारित है'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "shortage"
+              ],
+              "confidence": 0.88,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Governance & Social Entitlements": {
+      "Local Governance & Administrative Redressal": {
+        "Aadhaar, Voter ID & Bank DBT Seeding Hurdles": {
+          "evidence_group_id": "EG_0011",
+          "location": "Madhubani, Bihar",
+          "domain": "Governance & Social Entitlements",
+          "theme": "Local Governance & Administrative Redressal",
+          "issue": "Aadhaar, Voter ID & Bank DBT Seeding Hurdles",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01626-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01626-03",
+              "reference": "मधुबनी राममंदिर खजौली प्रखंड में खाद्य अवाम यूरिया पर आधारित है",
+              "translated_text": "Community caller report regarding local condition: 'मधुबनी राममंदिर खजौली प्रखंड में खाद्य अवाम यूरिया पर आधारित है'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "shortage"
+              ],
+              "confidence": 0.88,
+              "location_source": "transcript",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Darbhanga, Bihar": {
+    "Rural Roads & Physical Connectivity": {
+      "Road Connectivity & Bridge Infrastructure": {
+        "Dilapidated Roads, Potholes & Missing Culverts": {
+          "evidence_group_id": "EG_0012",
+          "location": "Darbhanga, Bihar",
+          "domain": "Rural Roads & Physical Connectivity",
+          "theme": "Road Connectivity & Bridge Infrastructure",
+          "issue": "Dilapidated Roads, Potholes & Missing Culverts",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "13-00094-02",
+            "13-00139-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00094-02",
+              "reference": "वौइस् ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिस ने एड लांच किया हैं पुलिस प्रसाशन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमें",
+              "translated_text": "Darbhanga police and transport authorities have launched an advisory to streamline municipal traffic management.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.91,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00139-03",
+              "reference": "वौइस् ऐसी ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिसने एक आप लांच किया है पुलिस प्रशासन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमे",
+              "translated_text": "Community caller report regarding local condition: 'वौइस् ऐसी ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिसने एक आप लांच किया है पुलिस प्रशासन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमे'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.91,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Governance & Social Entitlements": {
+      "Law, Order & Public Safety": {
+        "Police Responsiveness & Thana Grievance Redressal": {
+          "evidence_group_id": "EG_0013",
+          "location": "Darbhanga, Bihar",
+          "domain": "Governance & Social Entitlements",
+          "theme": "Law, Order & Public Safety",
+          "issue": "Police Responsiveness & Thana Grievance Redressal",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "13-00094-02",
+            "13-00139-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00094-02",
+              "reference": "वौइस् ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिस ने एड लांच किया हैं पुलिस प्रसाशन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमें",
+              "translated_text": "Darbhanga police and transport authorities have launched an advisory to streamline municipal traffic management.",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.89,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00139-03",
+              "reference": "वौइस् ऐसी ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिसने एक आप लांच किया है पुलिस प्रशासन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमे",
+              "translated_text": "Community caller report regarding local condition: 'वौइस् ऐसी ट्रैफिक व्यवस्था को दुरुस्त कराने के लिए दरभंगा पुलिसने एक आप लांच किया है पुलिस प्रशासन आर टी ओ और डी टी ओ के माध्यम ऐसी इनमे'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.89,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": NaN,
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0014",
+          "location": "Darbhanga, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 4,
+          "utterance_ids": [
+            "01-01273-03",
+            "01-09464-01",
+            "01-09468-01",
+            "01-09919-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01273-03",
+              "reference": "जयनगर ऐसी पुरे तक जाती हाँ",
+              "translated_text": "Community caller report regarding local condition: 'जयनगर ऐसी पुरे तक जाती हाँ'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-09464-01",
+              "reference": "संचालित की जा रही है यह परीक्षा छह अगस्त तक चलेगी मजरुल हक विश्वविद्द्यालय की इस परीक्षा में",
+              "translated_text": "Community caller report regarding local condition: 'संचालित की जा रही है यह परीक्षा छह अगस्त तक चलेगी मजरुल हक विश्वविद्द्यालय की इस परीक्षा में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-09468-01",
+              "reference": "बिछा है और सात अगस्त को होगी और यह सतराह अगस्त दो हजार उन्नीस की परीक्षा होगी जिसमे सभी छात्र",
+              "translated_text": "Community caller report regarding local condition: 'बिछा है और सात अगस्त को होगी और यह सतराह अगस्त दो हजार उन्नीस की परीक्षा होगी जिसमे सभी छात्र'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-09919-03",
+              "reference": "ऐसी उत्साहित है और उन्होंने कहा की भारत में चार साल पहले इस चीजो पर कम्पाउंड में इसलिए वह अठारह अगस्त से दावेदार हैं तो दोस्तों सुनते रहिये ऐसे ही मुख्य",
+              "translated_text": "Community caller report regarding local condition: 'ऐसी उत्साहित है और उन्होंने कहा की भारत में चार साल पहले इस चीजो पर कम्पाउंड में इसलिए वह अठारह अगस्त से दावेदार हैं तो दोस्तों सुनते रहिये ऐसे ही मुख्य'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Munger, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0015",
+          "location": "Munger, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 11,
+          "utterance_ids": [
+            "13-00133-01",
+            "13-00154-04",
+            "13-00154-06",
+            "13-00292-02",
+            "13-00309-01",
+            "13-00362-02",
+            "13-00362-03",
+            "13-00362-04",
+            "13-00362-06",
+            "01-06863-02",
+            "02-15846-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00133-01",
+              "reference": "हमारे मोबइलवाणी के माध्यम ऐसी कहते हैं की मुंगेर के मांझी टोला में करीब सौ बच्चों के बीच कापियों और पेंसिल का वितरण किया गया इस ऐसी बच्चों के चेहरे पर",
+              "translated_text": "Community caller report regarding local condition: 'हमारे मोबइलवाणी के माध्यम ऐसी कहते हैं की मुंगेर के मांझी टोला में करीब सौ बच्चों के बीच कापियों और पेंसिल का वितरण किया गया इस ऐसी बच्चों के चेहरे पर'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Happy"
+            },
+            {
+              "utt_id": "13-00154-04",
+              "reference": "धन्यवाद साथियों में मधु लेकर आई हूँ शाम की सुर्खिया",
+              "translated_text": "Thank you friends, bringing you the evening news headlines.",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00154-06",
+              "reference": "दिखेगा श्वेत धवल चांदनी बिखेरने वाला चाँद आज सुर्ख लाल नज़र आयेगा इस पूरी खगोलीय घटना को किसी खास उपकरण का इस्तेमाल",
+              "translated_text": "Community caller report regarding local condition: 'दिखेगा श्वेत धवल चांदनी बिखेरने वाला चाँद आज सुर्ख लाल नज़र आयेगा इस पूरी खगोलीय घटना को किसी खास उपकरण का इस्तेमाल'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00292-02",
+              "reference": "राष्ट्रीय हैण्ड बॉल के लिए किया गया था जिसमे केंद्रीय विद्द्यालय जमालपुर के बच्चों ने भग लिया था शाम में बचे जमालपुर लौट अये हैं तथा यहाँ",
+              "translated_text": "Community caller report regarding local condition: 'राष्ट्रीय हैण्ड बॉल के लिए किया गया था जिसमे केंद्रीय विद्द्यालय जमालपुर के बच्चों ने भग लिया था शाम में बचे जमालपुर लौट अये हैं तथा यहाँ'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Happy"
+            },
+            {
+              "utt_id": "13-00309-01",
+              "reference": "में राजीव कुमार ठाकुर जिला मुंगेर मुंगेर की आवाज़ ऐसी शहर को दो चरणों में किया जायेगा अतिक्रमण मुक्त मुंगेर जिला में अतिक्रमण मुक्त करने के लिए शहर में दो चरणों में",
+              "translated_text": "Community caller report regarding local condition: 'में राजीव कुमार ठाकुर जिला मुंगेर मुंगेर की आवाज़ ऐसी शहर को दो चरणों में किया जायेगा अतिक्रमण मुक्त मुंगेर जिला में अतिक्रमण मुक्त करने के लिए शहर में दो चरणों में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00362-02",
+              "reference": "नमस्कार मुंगेर की आवाज में आपका स्वागत है में विपिन कुमार जिला मुंगेर ऐसी दीपावली और आतिशबाजी आज पुरे बिहार में दीपावली आरोप खूब आतिशबाजी होती है",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार मुंगेर की आवाज में आपका स्वागत है में विपिन कुमार जिला मुंगेर ऐसी दीपावली और आतिशबाजी आज पुरे बिहार में दीपावली आरोप खूब आतिशबाजी होती है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00362-03",
+              "reference": "मगर पटाखे चलाना वर्तमान परिस्थिति में अपर्जैविक लगता है",
+              "translated_text": "Community caller report regarding local condition: 'मगर पटाखे चलाना वर्तमान परिस्थिति में अपर्जैविक लगता है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00362-04",
+              "reference": "निकाले प्रदूषण अनेक रोंगो को आमंत्रित कर रहे है और अनेक प्राकृतिक अपदाओ को झेल रहे है",
+              "translated_text": "Community caller report regarding local condition: 'निकाले प्रदूषण अनेक रोंगो को आमंत्रित कर रहे है और अनेक प्राकृतिक अपदाओ को झेल रहे है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00362-06",
+              "reference": "शोर हो जाता है शोर शराबे से ध्वनी प्रदूषण लगता है ऐसे में क्या यह अच्छा न हो की हम इस खुशी के अवसर पर",
+              "translated_text": "Community caller report regarding local condition: 'शोर हो जाता है शोर शराबे से ध्वनी प्रदूषण लगता है ऐसे में क्या यह अच्छा न हो की हम इस खुशी के अवसर पर'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-06863-02",
+              "reference": "नमस्कार आवाज मई आप का स्वागत है मई बिपिन कुमार जिला मुंगेर ऐसी मदरस डे के उपलक्ष मई आज हम लोग सभी मिल के लिए संकल्प ले की",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार आवाज मई आप का स्वागत है मई बिपिन कुमार जिला मुंगेर ऐसी मदरस डे के उपलक्ष मई आज हम लोग सभी मिल के लिए संकल्प ले की'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-15846-01",
+              "reference": "हम लोगों का एक विशेष मांग है की की आवाज़ के द्वारा की अगर हो सके तो हर पंचायत में",
+              "translated_text": "Community caller report regarding local condition: 'हम लोगों का एक विशेष मांग है की की आवाज़ के द्वारा की अगर हो सके तो हर पंचायत में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Samastipur, Bihar": {
+    "Rural Roads & Physical Connectivity": {
+      "Road Connectivity & Bridge Infrastructure": {
+        "Dilapidated Roads, Potholes & Missing Culverts": {
+          "evidence_group_id": "EG_0016",
+          "location": "Samastipur, Bihar",
+          "domain": "Rural Roads & Physical Connectivity",
+          "theme": "Road Connectivity & Bridge Infrastructure",
+          "issue": "Dilapidated Roads, Potholes & Missing Culverts",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00242-04"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00242-04",
+              "reference": "आरोप पुलिस के हट कोई सफलता नही मिली",
+              "translated_text": "Community caller report regarding local condition: 'आरोप पुलिस के हट कोई सफलता नही मिली'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.91,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Governance & Social Entitlements": {
+      "Law, Order & Public Safety": {
+        "Police Responsiveness & Thana Grievance Redressal": {
+          "evidence_group_id": "EG_0017",
+          "location": "Samastipur, Bihar",
+          "domain": "Governance & Social Entitlements",
+          "theme": "Law, Order & Public Safety",
+          "issue": "Police Responsiveness & Thana Grievance Redressal",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "13-00242-04",
+            "13-00246-05"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00242-04",
+              "reference": "आरोप पुलिस के हट कोई सफलता नही मिली",
+              "translated_text": "Community caller report regarding local condition: 'आरोप पुलिस के हट कोई सफलता नही मिली'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.89,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00246-05",
+              "reference": "थाना अध्यक्ष राजकमल किशोर कुमार का कहना है की पोस्त्मार्तम कराकर शव को परिजनों को सौप दिया गया है और अपराधियों की तलाश की जा रही है",
+              "translated_text": "Community caller report regarding local condition: 'थाना अध्यक्ष राजकमल किशोर कुमार का कहना है की पोस्त्मार्तम कराकर शव को परिजनों को सौप दिया गया है और अपराधियों की तलाश की जा रही है'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "non_responsiveness"
+              ],
+              "confidence": 0.89,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0018",
+          "location": "Samastipur, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 8,
+          "utterance_ids": [
+            "13-00243-05",
+            "13-00243-06",
+            "13-00244-02",
+            "13-00244-03",
+            "13-00244-05",
+            "13-00244-06",
+            "13-00246-03",
+            "13-00246-06"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00243-05",
+              "reference": "समस्तीपुर मोबइलवाणी ऐसी में संजय कुमार बबलू बिहार मोबइलवाणी के लिए लाया हूँ समस्तीपुर बिहार में बड़े पैमाने आरोप नकली बातों की तस्करी",
+              "translated_text": "Community caller report regarding local condition: 'समस्तीपुर मोबइलवाणी ऐसी में संजय कुमार बबलू बिहार मोबइलवाणी के लिए लाया हूँ समस्तीपुर बिहार में बड़े पैमाने आरोप नकली बातों की तस्करी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00243-06",
+              "reference": "की तस्करी हो रही है और इस तस्करी समस्तीपुर जिला भी अछुता नहीं है ये नोट पडोसी देश ऐसी छपकर बिहार के रस्ते आ रहे है",
+              "translated_text": "Community caller report regarding local condition: 'की तस्करी हो रही है और इस तस्करी समस्तीपुर जिला भी अछुता नहीं है ये नोट पडोसी देश ऐसी छपकर बिहार के रस्ते आ रहे है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00244-02",
+              "reference": "समस्तीपुर प्रशासन नकली बातों की रोक के लिए काफी सक्रिय दिख रही है जैसे की वो पिछले पाँच वर्ष के दौरान",
+              "translated_text": "Community caller report regarding local condition: 'समस्तीपुर प्रशासन नकली बातों की रोक के लिए काफी सक्रिय दिख रही है जैसे की वो पिछले पाँच वर्ष के दौरान'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00244-03",
+              "reference": "बिहार राज में जाली नोट के दस बड़े मामले पकड़े गए है चार करोड़ पचीस लाख जाली नोट बरामद किये गए है और सत्रह तसकर भी पकड़े गए है",
+              "translated_text": "Community caller report regarding local condition: 'बिहार राज में जाली नोट के दस बड़े मामले पकड़े गए है चार करोड़ पचीस लाख जाली नोट बरामद किये गए है और सत्रह तसकर भी पकड़े गए है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00244-05",
+              "reference": "ठीक ऐसी तालाश के लिए की गयी है",
+              "translated_text": "Community caller report regarding local condition: 'ठीक ऐसी तालाश के लिए की गयी है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00244-06",
+              "reference": "बिहार मोबइल वाणी के लिए मैं समस्तीपुर मोबइल वाणी से संजय कुमार बबलू समस्तीपुर में",
+              "translated_text": "Community caller report regarding local condition: 'बिहार मोबइल वाणी के लिए मैं समस्तीपुर मोबइल वाणी से संजय कुमार बबलू समस्तीपुर में'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00246-03",
+              "reference": "ऐसी घर लौट रहा था हरकपुर चौक ऐसी कुछ आगे बढ़ने के बाद तीन अज्ञात अपराधियों ने पीछे ऐसी ओवरटेक कर चाभी छीनकर फ़ेंक दिया",
+              "translated_text": "Community caller report regarding local condition: 'ऐसी घर लौट रहा था हरकपुर चौक ऐसी कुछ आगे बढ़ने के बाद तीन अज्ञात अपराधियों ने पीछे ऐसी ओवरटेक कर चाभी छीनकर फ़ेंक दिया'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00246-06",
+              "reference": "घटना के परिजनों का रो रोकर बुरा हाल है मृतक' की पत्नी देवयानी कुमारी पेशे ऐसी शिक्षिका है मृतक' की पुत्री सुहानी भारतीय अनुराग भारती",
+              "translated_text": "Community caller report regarding local condition: 'घटना के परिजनों का रो रोकर बुरा हाल है मृतक' की पत्नी देवयानी कुमारी पेशे ऐसी शिक्षिका है मृतक' की पुत्री सुहानी भारतीय अनुराग भारती'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Energy & Rural Electrification": {
+      "Electricity Supply & Power Grid Stability": {
+        "Frequent Power Outages, Low Voltage & Burnt Transformers": {
+          "evidence_group_id": "EG_0019",
+          "location": "Samastipur, Bihar",
+          "domain": "Energy & Rural Electrification",
+          "theme": "Electricity Supply & Power Grid Stability",
+          "issue": "Frequent Power Outages, Low Voltage & Burnt Transformers",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00244-04"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00244-04",
+              "reference": "खुफिया और सुरक्षा एजेंसियों की लगातार चौकीदारी है नेपाल बिहार सीमा आरोप एस एस बी को ज्यादा अलर्ट कर दिया गया है और आने जाने वालों को",
+              "translated_text": "Community caller report regarding local condition: 'खुफिया और सुरक्षा एजेंसियों की लगातार चौकीदारी है नेपाल बिहार सीमा आरोप एस एस बी को ज्यादा अलर्ट कर दिया गया है और आने जाने वालों को'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.92,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Muzaffarpur, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0020",
+          "location": "Muzaffarpur, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 3,
+          "utterance_ids": [
+            "13-00243-02",
+            "13-00243-03",
+            "13-00243-04"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00243-02",
+              "reference": "नमस्कार मुजफ्फरपुर मोबइलवाणी में आपका स्वागत है खुरनी ऐसी में नवीन कुमार अंकी गाँव में घर का निर्माण करा रहे है गाँव के ही",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार मुजफ्फरपुर मोबइलवाणी में आपका स्वागत है खुरनी ऐसी में नवीन कुमार अंकी गाँव में घर का निर्माण करा रहे है गाँव के ही'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00243-03",
+              "reference": "कुछ लोगो ने ['मारपीट', 'कर'] घायल कर दिया घायल परिवार खुरनी पी जी एस सी में कराया गया वही इस मामले को लेकर चार लोगो के खिलाफ नामजद प्राथमिकी दर्ज कराई",
+              "translated_text": "Community caller report regarding local condition: 'कुछ लोगो ने ['मारपीट', 'कर'] घायल कर दिया घायल परिवार खुरनी पी जी एस सी में कराया गया वही इस मामले को लेकर चार लोगो के खिलाफ नामजद प्राथमिकी दर्ज कराई'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00243-04",
+              "reference": "दर्ज कराई है अध्यक्ष अमन अशरफ ने बताया की प्राथमिकी दर्ज कर कार्यवाही शुरू कर दी गयी है",
+              "translated_text": "Community caller report regarding local condition: 'दर्ज कराई है अध्यक्ष अमन अशरफ ने बताया की प्राथमिकी दर्ज कर कार्यवाही शुरू कर दी गयी है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Jamui, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0021",
+          "location": "Jamui, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "13-00247-02",
+            "13-00247-06"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00247-02",
+              "reference": "मैं दिलीप पांडे जमुई",
+              "translated_text": "Community caller report regarding local condition: 'मैं दिलीप पांडे जमुई'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00247-06",
+              "reference": "यह बहुत अच्छी सेवा हैं जिससे हर व्यक्ति पसंद कर रहे हैं जम्मुई जिले के धन्यवाद दिलीप पांडे जमुई खैरा ऐसी मोबइलवाणी ऐसी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'यह बहुत अच्छी सेवा हैं जिससे हर व्यक्ति पसंद कर रहे हैं जम्मुई जिले के धन्यवाद दिलीप पांडे जमुई खैरा ऐसी मोबइलवाणी ऐसी धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Dhanbad, Jharkhand": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0022",
+          "location": "Dhanbad, Jharkhand",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 8,
+          "utterance_ids": [
+            "13-00252-01",
+            "13-00645-01",
+            "13-00645-03",
+            "13-00697-02",
+            "13-00697-03",
+            "01-01972-01",
+            "01-02255-01",
+            "02-15807-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00252-01",
+              "reference": "नमस्कार धनबाद मोबाइल मीडिया ऐसी आज जागरण ऐसी सभी लोगों को आकर्षित हैं भक्तों में पूरी धूम मछी हुई हैं माँ दुर्गा की कृपा ऐसी धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार धनबाद मोबाइल मीडिया ऐसी आज जागरण ऐसी सभी लोगों को आकर्षित हैं भक्तों में पूरी धूम मछी हुई हैं माँ दुर्गा की कृपा ऐसी धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Happy"
+            },
+            {
+              "utt_id": "13-00645-01",
+              "reference": "तोपचाची प्रखंड ऐसी में धनबाद मोबाइल मीडिया रिपोर्टर रविन्द्र महतो भ्रष्टाचार समझ का बहुत बड़ा बीमारी बन चूका हैं",
+              "translated_text": "Community caller report regarding local condition: 'तोपचाची प्रखंड ऐसी में धनबाद मोबाइल मीडिया रिपोर्टर रविन्द्र महतो भ्रष्टाचार समझ का बहुत बड़ा बीमारी बन चूका हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Sad"
+            },
+            {
+              "utt_id": "13-00645-03",
+              "reference": "ऐसा भी नहीं की सबके सब भ्रष्ट हैं कुछ ईमानदार भी मिलते हैं जो एक पाने भी नहीं लेते",
+              "translated_text": "Community caller report regarding local condition: 'ऐसा भी नहीं की सबके सब भ्रष्ट हैं कुछ ईमानदार भी मिलते हैं जो एक पाने भी नहीं लेते'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Sad"
+            },
+            {
+              "utt_id": "13-00697-02",
+              "reference": "एस बी गारी ने शुरू किया डिजिटल ड्राइव नमस्कार श्रोताओं में रिपोर्टर खुशी ललन धनबाद मोबाइल मीडिया ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'एस बी गारी ने शुरू किया डिजिटल ड्राइव नमस्कार श्रोताओं में रिपोर्टर खुशी ललन धनबाद मोबाइल मीडिया ऐसी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00697-03",
+              "reference": "कैशलेस सोसाइटी की स्थापना के लिए एस बी गारी ने पन्द्रह डेविसस का डिजिटल ड्राइव चला रखा हैं इस स्पेशल ड्राइव के तहत क्षेत्रीय व्यवसाय कार्यालय के",
+              "translated_text": "Community caller report regarding local condition: 'कैशलेस सोसाइटी की स्थापना के लिए एस बी गारी ने पन्द्रह डेविसस का डिजिटल ड्राइव चला रखा हैं इस स्पेशल ड्राइव के तहत क्षेत्रीय व्यवसाय कार्यालय के'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01972-01",
+              "reference": "इसमें क्या मजबूर खनन के कारण हुई धनबाद की धरती खनन के कारण धरती हुई खोखली घर धस गए है दर्ज के लोग बंद गए है पगला और पगली",
+              "translated_text": "Community caller report regarding local condition: 'इसमें क्या मजबूर खनन के कारण हुई धनबाद की धरती खनन के कारण धरती हुई खोखली घर धस गए है दर्ज के लोग बंद गए है पगला और पगली'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-02255-01",
+              "reference": "हेलो नमस्कार धन्यवाद श्रोता संग में धनबाद ऐसी में बीरबल माथुर महुदा धनबाद",
+              "translated_text": "Community caller report regarding local condition: 'हेलो नमस्कार धन्यवाद श्रोता संग में धनबाद ऐसी में बीरबल माथुर महुदा धनबाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-15807-01",
+              "reference": "किसान खुशहाल हो जाएगी",
+              "translated_text": "Community caller report regarding local condition: 'किसान खुशहाल हो जाएगी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Energy & Rural Electrification": {
+      "Electricity Supply & Power Grid Stability": {
+        "Frequent Power Outages, Low Voltage & Burnt Transformers": {
+          "evidence_group_id": "EG_0023",
+          "location": "Dhanbad, Jharkhand",
+          "domain": "Energy & Rural Electrification",
+          "theme": "Electricity Supply & Power Grid Stability",
+          "issue": "Frequent Power Outages, Low Voltage & Burnt Transformers",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00252-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00252-02",
+              "reference": "नमस्कार धनबाद मोबाइल शाजहाँ तारा तोपचाँची अट्ठाईस पंचायत",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार धनबाद मोबाइल शाजहाँ तारा तोपचाँची अट्ठाईस पंचायत'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.92,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Education & Learning": {
+      "School Staffing & Basic Infrastructure": {
+        "Teacher Shortage & Teacher Absenteeism": {
+          "evidence_group_id": "EG_0024",
+          "location": "Dhanbad, Jharkhand",
+          "domain": "Education & Learning",
+          "theme": "School Staffing & Basic Infrastructure",
+          "issue": "Teacher Shortage & Teacher Absenteeism",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00414-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00414-02",
+              "reference": "नमस्कार साथियों में बीरबल महतो धनबाद ऐसी में एक प्राइवेट स्कूल का शिक्षक हूँ में कल कारखाने ऐसी निकालने वाले धुआं के",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार साथियों में बीरबल महतो धनबाद ऐसी में एक प्राइवेट स्कूल का शिक्षक हूँ में कल कारखाने ऐसी निकालने वाले धुआं के'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.87,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Health & Nutrition": {
+      "Primary Healthcare Access & Facilities": {
+        "Doctor Absenteeism & Essential Drug Shortages": {
+          "evidence_group_id": "EG_0025",
+          "location": "Dhanbad, Jharkhand",
+          "domain": "Health & Nutrition",
+          "theme": "Primary Healthcare Access & Facilities",
+          "issue": "Doctor Absenteeism & Essential Drug Shortages",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "01-02255-02",
+            "01-02255-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-02255-02",
+              "reference": "ग्राम पंचायत ऐसी में यह कहना चाहता हूँ की झोला छाप डॉक्टरों ऐसी सावधान अवाम निकट के स्वास्थ्य केंद्र आरोप जाकर अपने बच्चों का इलाज कराए",
+              "translated_text": "Community caller report regarding local condition: 'ग्राम पंचायत ऐसी में यह कहना चाहता हूँ की झोला छाप डॉक्टरों ऐसी सावधान अवाम निकट के स्वास्थ्य केंद्र आरोप जाकर अपने बच्चों का इलाज कराए'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.88,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-02255-03",
+              "reference": "वहाँ बहोत अच्छी दवाई मिलती है डॉक्टर भी सरकारी डॉक्टर अच्छे आके बैठते है अवाम इलाज किया जाता है",
+              "translated_text": "Community caller report regarding local condition: 'वहाँ बहोत अच्छी दवाई मिलती है डॉक्टर भी सरकारी डॉक्टर अच्छे आके बैठते है अवाम इलाज किया जाता है'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "absenteeism"
+              ],
+              "confidence": 0.88,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Bhagalpur, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0026",
+          "location": "Bhagalpur, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00252-06"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00252-06",
+              "reference": "नमस्कार चंपारण मोबइलवाणी ऐसी भागलपुर ऐसी कुबेर पांडे अभिनन्दन प्रखंड के हेतु पूजा पंडालो में भगवती महा गौरी की पूजा बहुत ही भक्ति भाव ऐसी किया गया",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार चंपारण मोबइलवाणी ऐसी भागलपुर ऐसी कुबेर पांडे अभिनन्दन प्रखंड के हेतु पूजा पंडालो में भगवती महा गौरी की पूजा बहुत ही भक्ति भाव ऐसी किया गया'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Happy"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Lucknow, Uttar_pradesh": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0027",
+          "location": "Lucknow, Uttar_pradesh",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 3,
+          "utterance_ids": [
+            "13-00254-01",
+            "13-00254-03",
+            "13-00254-06"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00254-01",
+              "reference": "परन्तु यह सरकार ने जिस जब प्रथम बार बने थे तो कुछ नम्बर समय सडकों का बिछा जाने लगा था था लेकिन आज",
+              "translated_text": "Community caller report regarding local condition: 'परन्तु यह सरकार ने जिस जब प्रथम बार बने थे तो कुछ नम्बर समय सडकों का बिछा जाने लगा था था लेकिन आज'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00254-03",
+              "reference": "आज ऐसा क्या हो गया की सड़कों की गुलदस्ता घाट गयी हैं जैसे तैसे संहिता द्वारा काली की वो ज़रूरी नहीं समझती",
+              "translated_text": "Community caller report regarding local condition: 'आज ऐसा क्या हो गया की सड़कों की गुलदस्ता घाट गयी हैं जैसे तैसे संहिता द्वारा काली की वो ज़रूरी नहीं समझती'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "13-00254-06",
+              "reference": "उखाड़ रहा हैं सरकार के मंत्री संवेदक तक ज़रूरी हैं कोई देखने वाला नहीं हैं",
+              "translated_text": "Community caller report regarding local condition: 'उखाड़ रहा हैं सरकार के मंत्री संवेदक तक ज़रूरी हैं कोई देखने वाला नहीं हैं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Dhalai, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0028",
+          "location": "Dhalai, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 3,
+          "utterance_ids": [
+            "13-00381-01",
+            "13-00381-04",
+            "13-00381-06"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00381-01",
+              "reference": "न तो किसान खेती कर प्रकार रहे है और न तो बच्चे अपने यहाँ बैठ के पढ़ाई कर प्रकार रहे है कमालपुर गाँव में हर बार की तरह इस बार भी दुर्घटनाओं में वृद्धि हुई है",
+              "translated_text": "Community caller report regarding local condition: 'न तो किसान खेती कर प्रकार रहे है और न तो बच्चे अपने यहाँ बैठ के पढ़ाई कर प्रकार रहे है कमालपुर गाँव में हर बार की तरह इस बार भी दुर्घटनाओं में वृद्धि हुई है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00381-04",
+              "reference": "और यहाँ के इंसान ही पिछले तीन छह साल ऐसी दिवाली अंधेरे में ही माना रहे है उन्हें उजाले का तो नाम ही पता नहीं",
+              "translated_text": "Community caller report regarding local condition: 'और यहाँ के इंसान ही पिछले तीन छह साल ऐसी दिवाली अंधेरे में ही माना रहे है उन्हें उजाले का तो नाम ही पता नहीं'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "13-00381-06",
+              "reference": "जिंदगी का गुजरा अच्छे ऐसी कर सके धन्यवाद में अरविन्द सिंह",
+              "translated_text": "Community caller report regarding local condition: 'जिंदगी का गुजरा अच्छे ऐसी कर सके धन्यवाद में अरविन्द सिंह'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            }
+          ]
+        }
+      }
+    },
+    "Energy & Rural Electrification": {
+      "Electricity Supply & Power Grid Stability": {
+        "Frequent Power Outages, Low Voltage & Burnt Transformers": {
+          "evidence_group_id": "EG_0029",
+          "location": "Dhalai, Bihar",
+          "domain": "Energy & Rural Electrification",
+          "theme": "Electricity Supply & Power Grid Stability",
+          "issue": "Frequent Power Outages, Low Voltage & Burnt Transformers",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00381-05"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00381-05",
+              "reference": "इसलिए मेरा हमारी राज्य सरकार ऐसी विनम्र निवेदन है की आप जल्द ऐसी जल्द बिजली कारवाई जाए जिससे यहाँ आरोप रहने वाले हर इंसान अपनी",
+              "translated_text": "Community caller report regarding local condition: 'इसलिए मेरा हमारी राज्य सरकार ऐसी विनम्र निवेदन है की आप जल्द ऐसी जल्द बिजली कारवाई जाए जिससे यहाँ आरोप रहने वाले हर इंसान अपनी'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.92,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Bokaro, Jharkhand": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0030",
+          "location": "Bokaro, Jharkhand",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 4,
+          "utterance_ids": [
+            "13-00587-03",
+            "01-00235-03",
+            "01-01976-02",
+            "01-02614-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00587-03",
+              "reference": "नमस्कार मित्रों में हीरालाल प्रमलिक जिला बोकारो जरिदीह हमारी सरकार ने जो गरीब",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार मित्रों में हीरालाल प्रमलिक जिला बोकारो जरिदीह हमारी सरकार ने जो गरीब'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": "Serious"
+            },
+            {
+              "utt_id": "01-00235-03",
+              "reference": "प्रखंड हुआ के सभी कर निगम मौजूद थे उपयुक्त जानकारी जीपीएस मृत्युंजय कुमार ने बोकारो मोबाइल मीडिया को दी है",
+              "translated_text": "Community caller report regarding local condition: 'प्रखंड हुआ के सभी कर निगम मौजूद थे उपयुक्त जानकारी जीपीएस मृत्युंजय कुमार ने बोकारो मोबाइल मीडिया को दी है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01976-02",
+              "reference": "ध धन्यवाद डीएम रंगीला को ओर्दिनाटर बोकारो श्रोता संग झारखण्ड मोबाइल वाणी",
+              "translated_text": "Community caller report regarding local condition: 'ध धन्यवाद डीएम रंगीला को ओर्दिनाटर बोकारो श्रोता संग झारखण्ड मोबाइल वाणी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-02614-03",
+              "reference": "झारखण्ड मोबाइल वाणी ऐसी सुनने वाले सभी श्रोताओ को में प्रेम प्रकाश कुमार बोकारो नवेदी ऐसी पुर्णतः",
+              "translated_text": "Community caller report regarding local condition: 'झारखण्ड मोबाइल वाणी ऐसी सुनने वाले सभी श्रोताओ को में प्रेम प्रकाश कुमार बोकारो नवेदी ऐसी पुर्णतः'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Kota, Rajasthan": {
+    "Governance & Social Entitlements": {
+      "Public Distribution System (PDS) & Food Security": {
+        "PDS Ration Under-weighing & Irregular Distribution": {
+          "evidence_group_id": "EG_0031",
+          "location": "Kota, Rajasthan",
+          "domain": "Governance & Social Entitlements",
+          "theme": "Public Distribution System (PDS) & Food Security",
+          "issue": "PDS Ration Under-weighing & Irregular Distribution",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00657-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00657-01",
+              "reference": "तीन सौ रुपया भरा जुर्माना एक एस गारी के समग्र मध्य प्रदेश के सेहोर जिले ऐसी पंचायत आदिवासी ग्राम पंचायत कोटा ऐसी",
+              "translated_text": "Community caller report regarding local condition: 'तीन सौ रुपया भरा जुर्माना एक एस गारी के समग्र मध्य प्रदेश के सेहोर जिले ऐसी पंचायत आदिवासी ग्राम पंचायत कोटा ऐसी'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "corruption_or_under_weighing"
+              ],
+              "confidence": 0.93,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0032",
+          "location": "Kota, Rajasthan",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00657-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00657-02",
+              "reference": "तत्पर्स्यासी कानून बनाया जो व्यक्ति गाँव में गुटका दारू",
+              "translated_text": "Community caller report regarding local condition: 'तत्पर्स्यासी कानून बनाया जो व्यक्ति गाँव में गुटका दारू'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Rural Roads & Physical Connectivity": {
+      "Road Connectivity & Bridge Infrastructure": {
+        "Dilapidated Roads, Potholes & Missing Culverts": {
+          "evidence_group_id": "EG_0033",
+          "location": "Kota, Rajasthan",
+          "domain": "Rural Roads & Physical Connectivity",
+          "theme": "Road Connectivity & Bridge Infrastructure",
+          "issue": "Dilapidated Roads, Potholes & Missing Culverts",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "13-00657-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "13-00657-03",
+              "reference": "गली गलोच आदि का सेवन करते हुए या गली देते हुए पकड़ा जाता है उसपर पंचायत ने जुर्माना रखा है यह रास्ता",
+              "translated_text": "Community caller report regarding local condition: 'गली गलोच आदि का सेवन करते हुए या गली देते हुए पकड़ा जाता है उसपर पंचायत ने जुर्माना रखा है यह रास्ता'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "infrastructure_damage"
+              ],
+              "confidence": 0.91,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Ranchi, Jharkhand": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0034",
+          "location": "Ranchi, Jharkhand",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01726-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01726-03",
+              "reference": "नमस्कार में रूपा देवी रांची झारखण्ड से झारखण्ड मोबाइल वाणी में में यह कहना चाहती हूँ आज जो हम लोग जो अभी",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार में रूपा देवी रांची झारखण्ड से झारखण्ड मोबाइल वाणी में में यह कहना चाहती हूँ आज जो हम लोग जो अभी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Employment, Livelihoods & Migration": {
+      "Labor Migration & Worker Welfare": {
+        "Distress Out-Migration for Work & Migrant Vulnerability": {
+          "evidence_group_id": "EG_0035",
+          "location": "Ranchi, Jharkhand",
+          "domain": "Employment, Livelihoods & Migration",
+          "theme": "Labor Migration & Worker Welfare",
+          "issue": "Distress Out-Migration for Work & Migrant Vulnerability",
+          "utterance_count": 3,
+          "utterance_ids": [
+            "01-03508-02",
+            "01-03508-03",
+            "01-03700-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-03508-02",
+              "reference": "एक दिन उसका मन लगा उसके निकाली घर ऐसी बाहर",
+              "translated_text": "Community caller report regarding local condition: 'एक दिन उसका मन लगा उसके निकाली घर ऐसी बाहर'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "access_barrier"
+              ],
+              "confidence": 0.9,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-03508-03",
+              "reference": "जल्दी ऐसी वह आगे बड़ी चलता चलते चलते पहुँच गयी वह चंडीगढ़ चंडीगढ़ ऐसी जमशेद पुर जमशेदपुर ऐसी रामेश्वर रामेश्वर ऐसी फिर लौट आई वह अपने घर माँ ने पूछा विजय रानी कहा गयी थी बाहर विजय बोली कहीं नही माँ में तो थी घर के अन्दर घर के अन्दर विजय रानी कैसा है यह झूठ बाइकसवार",
+              "translated_text": "Community caller report regarding local condition: 'जल्दी ऐसी वह आगे बड़ी चलता चलते चलते पहुँच गयी वह चंडीगढ़ चंडीगढ़ ऐसी जमशेद पुर जमशेदपुर ऐसी रामेश्वर रामेश्वर ऐसी फिर लौट आई वह अपने घर माँ ने पूछा विजय रानी कहा गयी थी बाहर विजय बोली कहीं नही माँ में तो थी घर के अन्दर घर के अन्दर विजय रानी कैसा है यह झूठ बाइकसवार'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "access_barrier"
+              ],
+              "confidence": 0.9,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-03700-03",
+              "reference": "फूलो पर मंडराती फिरती कलियों के संग सोती कभी घरो के भीतर जाकर बच्चों को ललचाती कभी वो मुझे पकड़ने चलते में बाहर उड़ जाती कभी गगन में उड़ती फिरती",
+              "translated_text": "Community caller report regarding local condition: 'फूलो पर मंडराती फिरती कलियों के संग सोती कभी घरो के भीतर जाकर बच्चों को ललचाती कभी वो मुझे पकड़ने चलते में बाहर उड़ जाती कभी गगन में उड़ती फिरती'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "access_barrier"
+              ],
+              "confidence": 0.9,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Ramgarh, Jharkhand": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0036",
+          "location": "Ramgarh, Jharkhand",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 2,
+          "utterance_ids": [
+            "01-02727-02",
+            "01-02727-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-02727-02",
+              "reference": "में प्रकाश कुमार पंचायत मीडिया रामगढ में बताना चाहता हूँ रामगढ क्षेत्र का रामगढ क्षेत्र का जो की एच वहाँ आरोप जिसमे",
+              "translated_text": "Community caller report regarding local condition: 'में प्रकाश कुमार पंचायत मीडिया रामगढ में बताना चाहता हूँ रामगढ क्षेत्र का रामगढ क्षेत्र का जो की एच वहाँ आरोप जिसमे'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-02727-03",
+              "reference": "जिसमे ऐसी वहाँ मजदूरों न हरताल किया जिसमे ऐसी हरताल बहुत ही बड़ा रूपए ले लिया था जिसमे बैंकों को भी बंद रखा गया और कई सरकारों ने भग लिए",
+              "translated_text": "Community caller report regarding local condition: 'जिसमे ऐसी वहाँ मजदूरों न हरताल किया जिसमे ऐसी हरताल बहुत ही बड़ा रूपए ले लिया था जिसमे बैंकों को भी बंद रखा गया और कई सरकारों ने भग लिए'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Patna, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0037",
+          "location": "Patna, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-02790-03"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-02790-03",
+              "reference": "पटना के ऐतिहासिक गाँधी मेडम में अब नहीं होगी कारण चुनाव को देखते हुए आचार संहिता लग जाने के कारण जिला अधिकारी पटना ने इसकी इजाजत नहीं दी",
+              "translated_text": "Community caller report regarding local condition: 'पटना के ऐतिहासिक गाँधी मेडम में अब नहीं होगी कारण चुनाव को देखते हुए आचार संहिता लग जाने के कारण जिला अधिकारी पटना ने इसकी इजाजत नहीं दी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Satna, Madhya_pradesh": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: conversational_preliminary": {
+          "evidence_group_id": "EG_0038",
+          "location": "Satna, Madhya_pradesh",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: conversational_preliminary",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-07120-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-07120-02",
+              "reference": "मेरा नाम निधि द्विवेदी है मैं ग्राम सोनवारी ज़िला सतना से बोल रही हूँ मैं महिला सशक्तिकरण के बारे में कुछ कहना चाहती हूँ सशक्तिकरण एक प्रक्रिया है",
+              "translated_text": "Community caller report regarding local condition: 'मेरा नाम निधि द्विवेदी है मैं ग्राम सोनवारी ज़िला सतना से बोल रही हूँ मैं महिला सशक्तिकरण के बारे में कुछ कहना चाहती हूँ सशक्तिकरण एक प्रक्रिया है'",
+              "content_type": "conversational_preliminary",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Buldhana, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0039",
+          "location": "Buldhana, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-08761-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-08761-02",
+              "reference": "नमस्कार मई प्रखंड ऐसी आज दिनांक अट्ठाईस साथ दो हजार अठारह को प्रखंड के अंतर्गत झिबुली पंचायत",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार मई प्रखंड ऐसी आज दिनांक अट्ठाईस साथ दो हजार अठारह को प्रखंड के अंतर्गत झिबुली पंचायत'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Nalanda, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0040",
+          "location": "Nalanda, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-11596-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-11596-02",
+              "reference": "और नालंदा जिले ऐसी हमे कई लोगो ने इस मुद्दे ऐसी जुड़े अपने विचार हमे भेजे है तो आइये सुनते की नालंदा जिले ऐसी हमारे साथियों का क्या कहना है",
+              "translated_text": "Community caller report regarding local condition: 'और नालंदा जिले ऐसी हमे कई लोगो ने इस मुद्दे ऐसी जुड़े अपने विचार हमे भेजे है तो आइये सुनते की नालंदा जिले ऐसी हमारे साथियों का क्या कहना है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Ramgarh, Bihar": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0041",
+          "location": "Ramgarh, Bihar",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "02-14671-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "02-14671-01",
+              "reference": "झारखण्ड मोबाइल वाणी के लिए मैं रामगढ़ ऐसी मनोज कुमार पंद्रह सितम्बर को छावनी परीक्षा बोर्ड की बैठक थी",
+              "translated_text": "Community caller report regarding local condition: 'झारखण्ड मोबाइल वाणी के लिए मैं रामगढ़ ऐसी मनोज कुमार पंद्रह सितम्बर को छावनी परीक्षा बोर्ड की बैठक थी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "metadata",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Unspecified_District, Unspecified_State": {
+    "Platform & Conversational Media": {
+      "Non-Substantive Media Audio": {
+        "Modality: platform_broadcast_bumper": {
+          "evidence_group_id": "EG_0042",
+          "location": "Unspecified_District, Unspecified_State",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: platform_broadcast_bumper",
+          "utterance_count": 17,
+          "utterance_ids": [
+            "01-11151-01",
+            "01-09523-02",
+            "01-07924-03",
+            "02-16367-01",
+            "01-01728-02",
+            "01-03485-03",
+            "02-13607-02",
+            "01-12037-02",
+            "01-02397-02",
+            "01-03776-01",
+            "02-22135-01",
+            "01-09269-02",
+            "02-15667-01",
+            "02-13536-02",
+            "01-06890-03",
+            "01-07444-01",
+            "01-08011-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-11151-01",
+              "reference": "की भारतीय स्तर पहलवान बजरंग पुनिया ने देश वासियों की उमीदों आरोप खड़ा उतरते हुए रविवार को अठारहवी मैं भारत को पहला स्वर्ण पदक दिलाया तो दोस्तों कैसा लगा आपको समाचार",
+              "translated_text": "Community caller report regarding local condition: 'की भारतीय स्तर पहलवान बजरंग पुनिया ने देश वासियों की उमीदों आरोप खड़ा उतरते हुए रविवार को अठारहवी मैं भारत को पहला स्वर्ण पदक दिलाया तो दोस्तों कैसा लगा आपको समाचार'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-09523-02",
+              "reference": "को छबीस गेंद शेष रहते हासिल कर लिया सलामी बल्लेबाज पावन साहनी भारत अंडर नाइनतीन के लिए चौसठ गेंद में उनचास रन बनाये धन्यवाद",
+              "translated_text": "Community caller report regarding local condition: 'को छबीस गेंद शेष रहते हासिल कर लिया सलामी बल्लेबाज पावन साहनी भारत अंडर नाइनतीन के लिए चौसठ गेंद में उनचास रन बनाये धन्यवाद'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-07924-03",
+              "reference": "नमस्कार मई सुषमा कुमारी रिपोर्टर बोकारो ऐसी सरकार को जीएसटी लागू नी करना चाहिए था क्यूँ जीएसटी का शिकार जिनकी आर्थिक स्थिति",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार मई सुषमा कुमारी रिपोर्टर बोकारो ऐसी सरकार को जीएसटी लागू नी करना चाहिए था क्यूँ जीएसटी का शिकार जिनकी आर्थिक स्थिति'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-16367-01",
+              "reference": "वही जमुई नगर परिषद के अंतर्गत सतभामा खेरमा सिकंदरा खैरा चकाई आदि जाए स्थानों पर अखाड़े निकले गए",
+              "translated_text": "Community caller report regarding local condition: 'वही जमुई नगर परिषद के अंतर्गत सतभामा खेरमा सिकंदरा खैरा चकाई आदि जाए स्थानों पर अखाड़े निकले गए'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-01728-02",
+              "reference": "अपना का घूँट पीना पड़ता है जबकि वह बेक़सूर होती है दोषी परिवार का एकमात्र दलीले देकर अगाबी किशन होती है",
+              "translated_text": "Community caller report regarding local condition: 'अपना का घूँट पीना पड़ता है जबकि वह बेक़सूर होती है दोषी परिवार का एकमात्र दलीले देकर अगाबी किशन होती है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": NaN,
+              "age": NaN,
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-03485-03",
+              "reference": "सोनू कुमार रजनीश कुमार संतोष कुमार निशा जीतेन्द्र कुमार मिश्रा विकास कुमार अमर कुमार अमन कुमार एवम रु रुपेश कुमार की विचार भी सराहनीय रही",
+              "translated_text": "Community caller report regarding local condition: 'सोनू कुमार रजनीश कुमार संतोष कुमार निशा जीतेन्द्र कुमार मिश्रा विकास कुमार अमर कुमार अमन कुमार एवम रु रुपेश कुमार की विचार भी सराहनीय रही'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-13607-02",
+              "reference": "श्रीलंका करीब छह गुना जयादा खर्च करता है जबकि इंडोनेशिया दोगुना जयादा नए आंकड़ो ऐसी पता चलता है की स्वास्थ्य आरोप सकल घरेलु उत्पाद का",
+              "translated_text": "Community caller report regarding local condition: 'श्रीलंका करीब छह गुना जयादा खर्च करता है जबकि इंडोनेशिया दोगुना जयादा नए आंकड़ो ऐसी पता चलता है की स्वास्थ्य आरोप सकल घरेलु उत्पाद का'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-12037-02",
+              "reference": "कोषण के लिए सरकार ने तोल फ्री हेल्प लाइन जारी किया खबर है नई डेल्ही ऐसी ऐसी कोषण और कुपोषण ऐसी सम्बंधित सवालों के समाधान के लिए सरकार का ने एक",
+              "translated_text": "Community caller report regarding local condition: 'कोषण के लिए सरकार ने तोल फ्री हेल्प लाइन जारी किया खबर है नई डेल्ही ऐसी ऐसी कोषण और कुपोषण ऐसी सम्बंधित सवालों के समाधान के लिए सरकार का ने एक'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-02397-02",
+              "reference": "बच्चे ठीक तरह से समझ नहीं पाते पढाई होती है जिसके कारण प्राथमिकता विद्द्यालय छात्र छात्रा है जिनसे मै कहना चाहूँगा की कुछ ऐसे ही प्राथमिक विद्द्यालय है",
+              "translated_text": "Community caller report regarding local condition: 'बच्चे ठीक तरह से समझ नहीं पाते पढाई होती है जिसके कारण प्राथमिकता विद्द्यालय छात्र छात्रा है जिनसे मै कहना चाहूँगा की कुछ ऐसे ही प्राथमिक विद्द्यालय है'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-03776-01",
+              "reference": "किया बैठक में सोना कुमार सिंह ने बताया की माननीय मुख्यमंत्री नीतिश कुमार के जे डी यू के राष्ट्रीय अध्यक्ष बनाने आरोप उन्हें बधाई दी एवं बधाई सन्देश में सोना कुमार सिंह ने बताया की आने वाला समय में बिहार देश को प्रधानमंत्री देगी नीतिश कुमार के रूप में देगा उन्होंने कहा की माननीय मुख्यमंत्री जी एक दो दर्शीय एवं सवी धर्म एवं सभी जाती ऐसी ऊपर उठ कर काम करने वाले व्यक्ति है बिहार के मुख्यमंत्री जी ने विकास का जो लकीर खींची जिसके कारण बिहार की छवि आने देशो में पूर्व थी",
+              "translated_text": "Community caller report regarding local condition: 'किया बैठक में सोना कुमार सिंह ने बताया की माननीय मुख्यमंत्री नीतिश कुमार के जे डी यू के राष्ट्रीय अध्यक्ष बनाने आरोप उन्हें बधाई दी एवं बधाई सन्देश में सोना कुमार सिंह ने बताया की आने वाला समय में बिहार देश को प्रधानमंत्री देगी नीतिश कुमार के रूप में देगा उन्होंने कहा की माननीय मुख्यमंत्री जी एक दो दर्शीय एवं सवी धर्म एवं सभी जाती ऐसी ऊपर उठ कर काम करने वाले व्यक्ति है बिहार के मुख्यमंत्री जी ने विकास का जो लकीर खींची जिसके कारण बिहार की छवि आने देशो में पूर्व थी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-22135-01",
+              "reference": "इसी के कारण विधि बताया गया जितना बोली दीदी बोली की अभी गर्मी के कारण मलेरिया टाइफायड डायरिया भी होता है तो देखिये दी",
+              "translated_text": "Community caller report regarding local condition: 'इसी के कारण विधि बताया गया जितना बोली दीदी बोली की अभी गर्मी के कारण मलेरिया टाइफायड डायरिया भी होता है तो देखिये दी'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-09269-02",
+              "reference": "नमस्कार खबर हैं नई दिल्ली से भारत और इंग्लैंड के बीच बरबीघा मैं पहला टेस्ट मैच खेला जा रहा है इस टेस्ट में इंग्लैंड ने टॉस जीतकर पहले बल्लेबाजी करने का",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार खबर हैं नई दिल्ली से भारत और इंग्लैंड के बीच बरबीघा मैं पहला टेस्ट मैच खेला जा रहा है इस टेस्ट में इंग्लैंड ने टॉस जीतकर पहले बल्लेबाजी करने का'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-15667-01",
+              "reference": "और अभी इस कार्यक्रम के साथ साथ एक लल्लन छुट्टन के माध्यम ऐसी बेटी जागरूकता का कार्यक्रम सदर रहा है वो नाटक आपको कैसा लगता है लल्लन छुट्टन का कार्यक्रम",
+              "translated_text": "Community caller report regarding local condition: 'और अभी इस कार्यक्रम के साथ साथ एक लल्लन छुट्टन के माध्यम ऐसी बेटी जागरूकता का कार्यक्रम सदर रहा है वो नाटक आपको कैसा लगता है लल्लन छुट्टन का कार्यक्रम'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "02-13536-02",
+              "reference": "जिले की औसत बारिशें सैतीस दशमलव तीन मिली मीटर बारिश इस वर्ष अभी तक सर्वाधिक आठ सौ पांच मिली मीटर बारिश तहसील मैं दर्ज",
+              "translated_text": "Community caller report regarding local condition: 'जिले की औसत बारिशें सैतीस दशमलव तीन मिली मीटर बारिश इस वर्ष अभी तक सर्वाधिक आठ सौ पांच मिली मीटर बारिश तहसील मैं दर्ज'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-06890-03",
+              "reference": "लोगो में राहत की चैन भीषण गर्मी ऐसी सभी के सभी परेशान",
+              "translated_text": "Community caller report regarding local condition: 'लोगो में राहत की चैन भीषण गर्मी ऐसी सभी के सभी परेशान'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-07444-01",
+              "reference": "नमस्कार प्रखण्ड ऐसी एह चन्द्र पुर धनबाद जो ट्रेन बंद हो जा रही है इसमें देखा गया की एक की",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार प्रखण्ड ऐसी एह चन्द्र पुर धनबाद जो ट्रेन बंद हो जा रही है इसमें देखा गया की एक की'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            },
+            {
+              "utt_id": "01-08011-01",
+              "reference": "बोकारो ऐसी भारत सरकार या राज सरकार ने पालक भवन मूल पुण्य ऐसी निर्माण करवाने के लिए योजना निकालती हैं कभी कभी छोटी छोटी भूल यह लापरवाही के चलते आधा अधूरा पढ़ जाता हैं यह पढाया जाता हैं योजना राशी को भी मुकर दिया जाता हैं और काम जैसे तैसे पूर्ण करते छोड़",
+              "translated_text": "Community caller report regarding local condition: 'बोकारो ऐसी भारत सरकार या राज सरकार ने पालक भवन मूल पुण्य ऐसी निर्माण करवाने के लिए योजना निकालती हैं कभी कभी छोटी छोटी भूल यह लापरवाही के चलते आधा अधूरा पढ़ जाता हैं यह पढाया जाता हैं योजना राशी को भी मुकर दिया जाता हैं और काम जैसे तैसे पूर्ण करते छोड़'",
+              "content_type": "platform_broadcast_bumper",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": "Serious"
+            }
+          ]
+        },
+        "Modality: cultural_and_creative": {
+          "evidence_group_id": "EG_0043",
+          "location": "Unspecified_District, Unspecified_State",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: cultural_and_creative",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "01-01815-02"
+          ],
+          "evidence": [
+            {
+              "utt_id": "01-01815-02",
+              "reference": "नमस्कार ऐसी मैं बीरबल माथुर कविता बोल रहा हूँ बल शोषण है महा पाप",
+              "translated_text": "Community caller report regarding local condition: 'नमस्कार ऐसी मैं बीरबल माथुर कविता बोल रहा हूँ बल शोषण है महा पाप'",
+              "content_type": "cultural_and_creative",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        },
+        "Modality: conversational_preliminary": {
+          "evidence_group_id": "EG_0044",
+          "location": "Unspecified_District, Unspecified_State",
+          "domain": "Platform & Conversational Media",
+          "theme": "Non-Substantive Media Audio",
+          "issue": "Modality: conversational_preliminary",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "02-12729-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "02-12729-01",
+              "reference": "देख रेख जाने ऐसी नहीं होगा दीदी को मेरा नमस्कार मेरा नाम मीना देवी है गाँव के रहने वाली हूँ निवासी हूँ समूह की बैठक कन्धा रही हूँ",
+              "translated_text": "Community caller report regarding local condition: 'देख रेख जाने ऐसी नहीं होगा दीदी को मेरा नमस्कार मेरा नाम मीना देवी है गाँव के रहने वाली हूँ निवासी हूँ समूह की बैठक कन्धा रही हूँ'",
+              "content_type": "conversational_preliminary",
+              "failure_mode": [],
+              "confidence": 1.0,
+              "location_source": "unknown",
+              "gender": "Female",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    },
+    "Governance & Social Entitlements": {
+      "Local Governance & Administrative Redressal": {
+        "Aadhaar, Voter ID & Bank DBT Seeding Hurdles": {
+          "evidence_group_id": "EG_0045",
+          "location": "Unspecified_District, Unspecified_State",
+          "domain": "Governance & Social Entitlements",
+          "theme": "Local Governance & Administrative Redressal",
+          "issue": "Aadhaar, Voter ID & Bank DBT Seeding Hurdles",
+          "utterance_count": 1,
+          "utterance_ids": [
+            "02-15067-01"
+          ],
+          "evidence": [
+            {
+              "utt_id": "02-15067-01",
+              "reference": "लेकिन क्या कभी खुद डाकघर गएँ तो कभी ऐसा नहीं लगा की वहाँ पर पासबुक की सुविधा मिलते है नहीं ये तो पता है कि वहाँ पर पासबुक खुलता है लेकिन इतना क्यूंकि बचत खाता है मेरे पास",
+              "translated_text": "Community caller report regarding local condition: 'लेकिन क्या कभी खुद डाकघर गएँ तो कभी ऐसा नहीं लगा की वहाँ पर पासबुक की सुविधा मिलते है नहीं ये तो पता है कि वहाँ पर पासबुक खुलता है लेकिन इतना क्यूंकि बचत खाता है मेरे पास'",
+              "content_type": "citizen_grievance",
+              "failure_mode": [
+                "exclusion_or_documentation_barrier"
+              ],
+              "confidence": 0.88,
+              "location_source": "unknown",
+              "gender": "Male",
+              "age": "Adult",
+              "sentiment": NaN
+            }
+          ]
+        }
+      }
+    }
+  }
+}

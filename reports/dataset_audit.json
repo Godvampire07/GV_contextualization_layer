@@ -1,0 +1,227 @@
+{
+  "dataset_name": "Gram Vaani Master Corpus",
+  "file_path": "data\\master\\gv_master_metadata.csv",
+  "total_rows": 37152,
+  "total_columns": 13,
+  "columns": [
+    "utt_id",
+    "audio_path",
+    "reference",
+    "Accent",
+    "Age",
+    "Gender",
+    "Background",
+    "Sentiment",
+    "District",
+    "State",
+    "Other",
+    "audio_drive_id",
+    "audio_filename"
+  ],
+  "duplicate_utterance_ids": 0,
+  "unique_utterance_ids": 37152,
+  "missing_values_by_column": {
+    "utt_id": 0,
+    "audio_path": 0,
+    "reference": 0,
+    "Accent": 6351,
+    "Age": 3842,
+    "Gender": 2341,
+    "Background": 33383,
+    "Sentiment": 30558,
+    "District": 37074,
+    "State": 25087,
+    "Other": 22454,
+    "audio_drive_id": 0,
+    "audio_filename": 0
+  },
+  "missing_percentages_by_column": {
+    "utt_id": 0.0,
+    "audio_path": 0.0,
+    "reference": 0.0,
+    "Accent": 17.09,
+    "Age": 10.34,
+    "Gender": 6.3,
+    "Background": 89.86,
+    "Sentiment": 82.25,
+    "District": 99.79,
+    "State": 67.53,
+    "Other": 60.44,
+    "audio_drive_id": 0.0,
+    "audio_filename": 0.0
+  },
+  "transcript_statistics": {
+    "transcript_column": "reference",
+    "missing_count": 0,
+    "missing_pct": 0.0,
+    "empty_count": 0,
+    "valid_transcripts_count": 37152,
+    "min_word_count": 2,
+    "max_word_count": 264,
+    "mean_word_count": 23.47,
+    "median_word_count": 24.0,
+    "std_word_count": 10.52,
+    "percentiles": {
+      "5th": 8.0,
+      "10th": 11.0,
+      "25th": 17.0,
+      "50th": 24.0,
+      "75th": 29.0,
+      "90th": 34.0,
+      "95th": 37.0,
+      "99th": 51.48999999999796
+    }
+  },
+  "metadata_distributions": {
+    "State": {
+      "unique_count_excluding_null": 8,
+      "total_non_null": 12065,
+      "total_null": 25087,
+      "distribution": {
+        "nan": 25087,
+        "Bihar": 11944,
+        "Jharkhand": 55,
+        "Madhya_pradesh": 40,
+        "Maharashtra": 10,
+        "West_bengal": 8,
+        "Uttar_pradesh": 3,
+        "Rajasthan": 3,
+        "New_delhi": 2
+      }
+    },
+    "District": {
+      "unique_count_excluding_null": 18,
+      "total_non_null": 78,
+      "total_null": 37074,
+      "distribution": {
+        "nan": 37074,
+        "Dhanbad": 12,
+        "Munger": 11,
+        "Samastipur": 11,
+        "Madhubani": 7,
+        "Darbhanga": 6,
+        "Bokaro": 4,
+        "Ranchi": 4,
+        "Dhalai": 4,
+        "Ramgarh": 3,
+        "Kota": 3,
+        "Lucknow": 3,
+        "Muzaffarpur": 3,
+        "Jamui": 2,
+        "Bhagalpur": 1,
+        "Patna": 1,
+        "Satna": 1,
+        "Buldhana": 1,
+        "Nalanda": 1
+      }
+    },
+    "Sentiment": {
+      "unique_count_excluding_null": 5,
+      "total_non_null": 6594,
+      "total_null": 30558,
+      "distribution": {
+        "nan": 30558,
+        "Serious": 6080,
+        "Sad": 338,
+        "Happy": 159,
+        "Angry": 16,
+        "Tense": 1
+      }
+    },
+    "Background": {
+      "unique_count_excluding_null": 3,
+      "total_non_null": 3769,
+      "total_null": 33383,
+      "distribution": {
+        "nan": 33383,
+        "Music": 3693,
+        "Noise": 65,
+        "No_speaking": 11
+      }
+    },
+    "Gender": {
+      "unique_count_excluding_null": 3,
+      "total_non_null": 34811,
+      "total_null": 2341,
+      "distribution": {
+        "Male": 24280,
+        "Female": 10494,
+        "nan": 2341,
+        "Gender_unknown": 37
+      }
+    },
+    "Age": {
+      "unique_count_excluding_null": 3,
+      "total_non_null": 33310,
+      "total_null": 3842,
+      "distribution": {
+        "Adult": 32824,
+        "nan": 3842,
+        "Age_unknown": 278,
+        "Child": 208
+      }
+    },
+    "Accent": {
+      "unique_count_excluding_null": 8,
+      "total_non_null": 30801,
+      "total_null": 6351,
+      "distribution": {
+        "Accent_unknown": 18119,
+        "Bihari": 11865,
+        "nan": 6351,
+        "Bhojpuri": 767,
+        "Normal_hindi": 18,
+        "Jharkhandi": 15,
+        "Bengali": 8,
+        "Marathi": 6,
+        "Lucknowi": 3
+      }
+    },
+    "Other": {
+      "unique_count_excluding_null": 38,
+      "total_non_null": 14698,
+      "total_null": 22454,
+      "distribution": {
+        "nan": 22454,
+        "inaudible": 8300,
+        "audio_jump": 3227,
+        "audio_jump,inaudible": 1385,
+        "speaker_change": 654,
+        "not_clear": 267,
+        "audio_jump,speaker_change": 187,
+        "audio_break": 173,
+        "inaudible,speaker_change": 173,
+        "audio_jump,inaudible,speaker_change": 70,
+        "audio_break,inaudible": 56,
+        "laugh": 41,
+        "laugh,speaker_change": 29,
+        "audio_jump,not_clear": 28,
+        "audio_break,audio_jump": 23,
+        "cough": 16,
+        "cough,inaudible": 11,
+        "audio_break,speaker_change": 10,
+        "audio_jump,laugh,speaker_change": 8,
+        "audio_break,audio_jump,inaudible": 7,
+        "inaudible,laugh": 5,
+        "audio_jump,laugh": 4,
+        "inaudible,not_clear": 4,
+        "audio_jump,inaudible,laugh,speaker_change": 3,
+        "audio_break,audio_jump,speaker_change": 2,
+        "not_clear,speaker_change": 2,
+        "audio_break,inaudible,speaker_change": 1,
+        "cough,speaker_change": 1,
+        "audio_jump,cough,speaker_change": 1,
+        "inaudible,laugh,speaker_change": 1,
+        "laugh,not_clear,speaker_change": 1,
+        "audio_jump,inaudible,not_clear": 1,
+        "inaudible,people_talking": 1,
+        "audio_jump,cough": 1,
+        "people_talking": 1,
+        "audio_jump,stutter": 1,
+        "inaudible,stutter": 1,
+        "audio_jump,cough,inaudible": 1,
+        "audio_jump,sneezing,speaker_change": 1
+      }
+    }
+  }
+}

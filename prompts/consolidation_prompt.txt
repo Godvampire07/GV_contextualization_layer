@@ -1,0 +1,26 @@
+You are assisting in constructing a data-driven semantic taxonomy from Gram Vaani community utterances.
+
+You are given a list of candidate raw concepts (domains, themes, issues, entities, outcomes) extracted during open coding, along with their frequencies, co-occurrences, and sample utterance evidence.
+
+Your task is CONCEPT CONSOLIDATION:
+1. Merge true synonymous expressions into canonical concepts (e.g., "water shortage", "water scarcity", "lack of drinking water" -> "Water Availability").
+2. DO NOT over-merge concepts that represent distinct operational or developmental problems (e.g., keep "Crop Pricing/MSP" separate from "Crop Pest Infestation"; keep "Healthcare Access" separate from "Healthcare Facility Quality").
+3. Assign a stable snake_case ID, canonical English title name, clear concise definition, and list of aliases for each canonical concept.
+4. Maintain full reference to source evidence counts and utterance IDs.
+
+OUTPUT SCHEMA:
+{
+  "canonical_concepts": [
+    {
+      "id": "string",
+      "name": "string",
+      "category_type": "domain | theme | issue | entity | outcome",
+      "parent_id": "string or null",
+      "definition": "string",
+      "aliases": ["string"],
+      "source_frequency": 0,
+      "source_utterance_count": 0,
+      "example_utterance_ids": ["string"]
+    }
+  ]
+}
